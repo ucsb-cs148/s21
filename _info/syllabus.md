@@ -8,10 +8,10 @@ ready: false
 
 * **Instructor**:  [Tobias Höllerer](http://www.cs.ucsb.edu/~holl) (contact via Slack)
    * Prof. Höllerer is @Tobias Höllerer on Slack, all TAs, Readers and Mentors are available there as well, and you can form group DMs
-* **Lecture**: 3:30pm-4:15pm TR. ATTENDANCE STRONGLY ENCOURAGED (but offline participation through recordings enabled for people in other time zones) 
+* **Lecture**: 3:30pm-4:15pm TR. Attendance is expected, but offline participation through recordings is enabled for people in other time zones. 
 * **TAs**: {{site.ta_list_full}} (contact via Slack)
 * **Mentors**: {{site.mentors_list}} (contact via Slack)
-* **Lab** (50 minute discussion section) Friday {{site.sections}}, ATTENDANCE REQUIRED, but alternative Section may be offered for teams in other time zones.                                       
+* **Lab** (50 minute discussion section) Friday {{site.sections}}, Attendance is expected, but alternative Section may be offered for teams in other time zones.                                       
 * Office Hours: See: <http://www.cs.ucsb.edu/~holl/CS148>  
 
 For course resource links, please visit the course [Gauchospace site](https://gauchospace.ucsb.edu/courses/course/view.php?id=117032).
