@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 48, Winter 2020"
+title: "Syllabus, CMPSC 148, Spring 2021"
 ready: false
 ---
 
@@ -8,17 +8,17 @@ ready: false
 
 * **Instructor**:  [Tobias Höllerer](http://www.cs.ucsb.edu/~holl) (contact via Slack)
    * Prof. Höllerer is @Tobias Höllerer on Slack, all TAs, Readers and Mentors are available there as well, and you can form group DMs
-* **Lecture**: 2pm-3:15pm MW. PHELPS 3526. ATTENDANCE REQUIRED. 
+* **Lecture**: 3:30pm-4:15pm TR. ATTENDANCE STRONGLY ENCOURAGED (but offline participation through recordings enabled for people in other time zones) 
 * **TAs**: {{site.ta_list_full}} (contact via Slack)
 * **Mentors**: {{site.mentors_list}} (contact via Slack)
-* **Lab** (50 minute discussion section) Thursday {{site.sections}}, Phelps 3525. ATTENDANCE REQUIRED.                                         
-* Office Hours: See: <http://www.cs.ucsb.edu/~holl/CS48>  
+* **Lab** (50 minute discussion section) Friday {{site.sections}}, ATTENDANCE REQUIRED, but alternative Section may be offered for teams in other time zones.                                       
+* Office Hours: See: <http://www.cs.ucsb.edu/~holl/CS148>  
 
-For course website links, visit the course Gauchospace site.
+For course resource links, please visit the course [Gauchospace site](https://gauchospace.ucsb.edu/courses/course/view.php?id=117032).
 
 # About the Course
 
-The [official course description](http://www.cs.ucsb.edu/education/courses/cmpsc-48) is here:
+The [official course description](http://www.cs.ucsb.edu/education/courses/cmpsc-148) is here:
 
 <div style="background-color:#eee; border: 8px inset #333; font-size:90%; margin:1em; width:50em; padding: 0.5em;" markdown="1">
 
@@ -37,12 +37,7 @@ projects.
 
 The formula to determine your course grade average is explained in the table below.
 
-<s>Regardless of any other policies spelled out here, the average used to
-determine your final letter grade may be no higher than one full
-letter grade higher than your exam average. Thus,</s>
-
--   reasonably good performance on exams is very important to earning a good final grade in the course.
--   an A or B should not be out of reach for anyone that has a reasonably good mastery of course concepts (enough to earn a B or C on the exams), and puts in hard work on the labs and project points.
+There will be no exam this quarter, which will be held again exlusively with remote instruction.  Class grades will be assigned based on performance on homework assignemnts, possible in-class assignments, points alotted for work in the Lab sections (toward the team projects), and points for the final project product and demonstration. 
 
 To convert final averages to letter grades, a standard 10 point scale will be used, with the upper and lower ends of each range as +/- grades, except
 for A+ grades, see below.  There is no "rounding up"; a grade of 86.9999 is a B and a grade of 87.0000 is a B+.
@@ -51,34 +46,20 @@ A+ grades: These may be awarded to the very best performing students in the clas
 
 | Grade Item                                                                   | Percentage of Final Grade |
 |------------------------------------------------------------------------------|---------------------------|
-| Exam (likely week 8)   | 20% |
-| Hwks, In Class Assignments   | 15% |
-| Project Grade (labs)    | 30% |
-| Project Grade (final product)   | 35% |
+| Hwks, In Class Assignments   | 25% |
+| Project Grade (labs)    | 35% |
+| Project Grade (final product)   | 40% |
 
 
 Missing homework/in-class activities: Drop the lowest {{ site.hwk_drop_lowest }}
 -------------------------------------------------------
 
-If you miss a class, you miss the opportunity for the points on that
-in-class assignment, or homework that was due. Period.
+If you miss a class or the submission of any of the above deliverables, you miss the opportunity for the points on that deliverable that was due. 
 
 There is no makeup. In lieu of providing a makeup opportunity, I will
 drop the lowest {{ site.hwk_drop_lowest }} homework/in-class-assignment grades (which may be
 zeros if you miss an assignment.) Each homework and in-class-activity
 will be of equal value (100 pts).
-
-
-Notes sheets on exams
----------------------
-
--   You are permitted one 8.5 x 11 (standard US letter size paper) double-sided sheet of notes for each exam.
--   You are permitted only one sheet per exam.
--   Your notes sheet will be collected and WILL NOT BE RETURNED
--   So, if you need a copy of it, make a copy BEFORE you come to the exam.
-
-
-
 
 
 
@@ -111,8 +92,7 @@ So:
 
 This course is, to a large extent, about *process*,  including the process by which indivduals work together on a team.
 
-Our class meeting times are the only scheduled times our teams definitely come together to meet.  So it is essential that you are here.
-
+Our class meeting times are the only scheduled times our teams definitely come together to meet.  So it is essential that you are here. But we recognize the difficulties of attending from vastly different time zones, so all lectures, and the announcements for labs will get recorded and posted to our unlisted YouTube playlist. 
 
 
 # Questions about grades
@@ -131,7 +111,7 @@ question 7.)
 
 Please note that <b>regrade requests based on clerical errors or
 applying a rubric incorrectly are always welcome</b>. Over the course
-of the quarter, we'll grade over 10,000 individual problems, so it is
+of the quarter, we'll grade thousands of individual problems, so it is
 unlikely that we won't make at least some mistakes.
 
 <b>More problematic are challenges to the rubric itself</b>, e.g. "I
@@ -166,7 +146,7 @@ Students with disabilities may request academic accommodations for exams online 
 
 # Managing stress
 
-Personal concerns such as stress, anxiety, relationships, depression, cultural differences, can interfere with the ability of students to succeed and thrive. For helpful resources, please contact UCSB Counseling & Psychological Services (CAPS) at 805-893-4411 or visit <http://counseling.sa.ucsb.edu/> .
+Personal concerns such as stress, anxiety, relationships, depression, cultural differences, can interfere with the ability of students to succeed and thrive. For hopefully helpful resources, please contact UCSB Counseling & Psychological Services (CAPS) at 805-893-4411 or visit <http://counseling.sa.ucsb.edu/> .
 
 # Responsible scholarship
 
@@ -180,4 +160,3 @@ This syllabus is as accurate as possible, but is subject to change at
 the instructor's discretion, within the bounds of UC policy.
 
 (end of syllabus)
-
