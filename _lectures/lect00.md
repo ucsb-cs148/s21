@@ -10,7 +10,7 @@ ready: true
 
 * Teaching Team Introduction
 * Please fill out the [Student Survey](https://bit.ly/148-survey) (required for enrolled students) 
-* Class recordings will be in [the unlisted CS148-S21 YouTube Channel]
+* Class recordings will be in [the unlisted CS148-S21 YouTube Channel](https://bit.ly/148-recordings)
 
 # "Open Lab Hours"
 
