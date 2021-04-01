@@ -14,6 +14,6 @@ permalink: "/teams_page/"
 
 <iframe class="teams" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6qrGQCrMtb3IKGZzwzQuRBccYAowTHLOCrmoski9SMDgLloWMh8QTd8B0dzOGvpAShaAJaxSv5e2g/pubhtml?widget=true&amp;headers=false"></iframe>
 
-<h2 id="roster" name="roster">Roster</h2>
+[//]: # <h2 id="roster" name="roster">Roster</h2>
 
-<iframe class="roster" src=""></iframe>
+[//]: # <iframe class="roster" src=""></iframe>
