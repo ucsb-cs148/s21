@@ -1,11 +1,11 @@
 ---
-assigned: 2020-01-16 16:00
+assigned: 2021-04-09 13:00
 desc: 'Starting your project: Story Map'
-due: 2020-01-23 19:00
-github_org: ucsb-cs48-w20
+due: 2021-04-09 13:00
+github_org: ucsb-cs148-s21
 layout: lab
 num: lab01
-ready: true
+ready: false
 
 ---
 
