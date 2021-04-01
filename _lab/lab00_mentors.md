@@ -1,16 +1,16 @@
 ---
 desc: Mentor instructions for lab00
-github_org: ucsb-cs48-w20
+github_org: ucsb-cs148-s21
 layout: lab
-mentor_due: 2020-01-24 18:00
+mentor_due: 2021-04-02 23:59
 num: lab00_mentors
-ready: true
-ta_due: 2020-02-01 18:00
+ready: false
+ta_due: 2021-04-15 23:59
 
 ---
 
 <div style="display:none">
-https://ucsb-cs48.github.io/w19/lab/lab00_mentors/
+https://ucsb-cs148.github.io/s21/lab/lab00_mentors/
 </div>
 
 # These instructions are for mentors/TAs only
@@ -27,7 +27,7 @@ about their grades for various items in the course.
 
 # Create a team level FEEDBACK repo for each of your teams
 
-First thing: go to <https://github.com/ucsb-cs48-w20> and create a new **private* repo with your team's name followed by the suffix `_FEEDBACK`
+First thing: go to <https://github.com/ucsb-cs148-s21> and create a new **private* repo with your team's name followed by the suffix `_FEEDBACK`
 
 | For team | create repo |
 |----------|-------------|
