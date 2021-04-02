@@ -24,7 +24,7 @@ them on Slack
 
 ## Step 0: Find your Breakout Room and associated mentor: 
 
-Seating charts are here:
+Current teams and their initial mentors are listed here:
 
 | Team # | Team Name | Mentor | Breakout Room |
 |-----|-----|-----|-----|
