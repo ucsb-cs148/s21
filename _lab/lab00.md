@@ -22,7 +22,7 @@ them on Slack
 * TA will go over today's lab work (do be done in breakout groups) 
 * Making sure teams are all 4-5 students, accommodating students without groups 
 
-## Step 0: Find your Breakout Room and associated mentor: 
+# Step 0: Find your Breakout Room and associated mentor: 
 
 Current teams and their initial mentors are listed here:
 
@@ -39,7 +39,7 @@ Current teams and their initial mentors are listed here:
 {:.table .table-sm .table-striped .table-bordered}
 
 
-## Step 1: Create a CoE account if you don't have one already
+# Step 1: Create a CoE account if you don't have one already
 
 We encourage you to complete all programming assignments by logging in
 to the machines in the Computer Science labs, or to connect
@@ -52,7 +52,7 @@ should be able to create your account immediately.
 
 If you are not able to do so, you will need to contact the ECI Help Desk at <a href="mailto:help@engineering.ucsb.edu">help@engineering.ucsb.edu</a>.
 
-## Step 2: Get setup with github and add yourself to our organization
+# Step 2: Get setup with github and add yourself to our organization
 
 We will be using github.com in this course. We have created an
 organization called {{github_org_name}} on github.com where you can
@@ -76,7 +76,7 @@ email, and confirm that email address.
 
 4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/{{site.github_org}}>). Click on the invitation link and accept it. You can also go straight to <https://github.com/{{site.github_org}}> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
 
-# Step 2a: Decide where you will work
+## Step 2a: Decide where you will work
 
 Your first step here is to decide whether you are going to work:
 * on your own laptop/desktop system
@@ -99,7 +99,7 @@ Note for running on CSIL
   special steps to make it accessible, such as setting up ssh port forwarding.  That process is described here: [CSIL: SSH Port Forwarding](https://ucsb-cs48.github.io/topics/csil_ssh_port_forwarding/)
 
 
-# Step 2b: Install Git
+## Step 2b: Install Git
 
 Skip this step if you are working on CSIL; git comes pre-installed.
 
@@ -115,11 +115,11 @@ If you decide to work locally, you'll need at least git on your local machine.
 
 When you can type `git --version` at the command prompt on your system, and it shows a version rather than an error such as `command not found`, you are ready to proceed.
 
-# Step 2c: Configure git
+## Step 2c: Configure git
 
 You may skip this step if you've already configured git on the machine where you are working.
 
-# Step 2d: Configure name and email
+## Step 2d: Configure name and email
 
 When you use `git` to add commits to a project, it attaches your name and email to the commit as part of the metadata.
 
@@ -130,7 +130,7 @@ git config --global user.name "Your Name"
 git config --global user.email you@example.com
 ```
 
-# Step 2e: Configure ssh keys
+## Step 2e: Configure ssh keys
 
 Configuring ssh keys for GitHub allows us to allows us to avoid having to type in our git password many times per session.  So while not strictly required, it is highly recommended.   All further instructions in the course will assume you have done this step; if you don't, you'll need to adjust the instructions to use `https` based urls instead of the SSH based ones that start with `git@github.com:`.
 
@@ -142,7 +142,7 @@ Notes:
 * You should generate the keys on the system where you plan to work: generate the keys on CSIL if you plan to work on CSIL, and on your laptop if you plan to work on your laptop.
 * If the `ssh-keygen` command is not available on your system, do a web search to try to determine how to install it for your platform.)
 
-# Step 2f: Clone your repo
+## Step 2f: Clone your repo
 
 Now, `cd` in the directory where you plan to do your work for this course (e.g. perhaps `~/cs48`), type this command to clone your empty repo into that directory.   In place of `repo-url-goes-here`, copy the URL for the new repo you created.  That will be, for example: `git@github.com:ucsb-cs48-s20/cgaucho_lab00.git` but with `cgaucho` replaced with your GitHub id.
 
@@ -155,7 +155,7 @@ That should create a new empty directory (well, almost empty) called `lab00-cgau
 If you then type `ls -a` you'll see that the directory is not completely empty. It contains a `.git` subdirectory, which is how you know that this is a git repo rather than an ordinary directory.
 
 
-## Step 3: Slack channel for your team
+# Step 3: Slack channel for your team
 
 Find your mentor.  The team list is here, and it will tell you who your mentor is:
 
@@ -167,7 +167,7 @@ Then, ask them to add you to the Slack for the course which is:
 
 There should be a channel there for your team.   Find that channel and join it.
 
-## Step 4: Ask your mentor to create a repo for your team
+# Step 4: Ask your mentor to create a repo for your team
 
 First, your team must decide what language you want to use, so your mentor can choose the correct .gitignore. This choice isn't permanent. Once you've communicated your choice to your mentor, they should create a repo under the organization:
 
@@ -183,7 +183,7 @@ Settings for repo:
 Your mentor should then add one team member with admin permission, who will then add all the other team members with admin permission.
 
 
-## Step 5: Each of you INDIVIDUALLY now makes either a fork or branch of the repo
+# Step 5: Each of you INDIVIDUALLY now makes either a fork or branch of the repo
 
 The next step is done as an individual
 
@@ -214,7 +214,7 @@ Each team member should do this individually. Note that this will be publicly di
 Do a pull request from your fork or branch to the master branch of the repo.  Each team member should have done at least
 one pull request from their github id.
    
-## Step 7: Create your team/NORMS.md file
+# Step 7: Create your team/NORMS.md file
 
 This is a list of ideal team behaviors, e.g. everyone arrives to meetings on time or everyone starts things tasks early. You should write this as a team.  Only one student needs to submit a pull request containing this file, however it is ok
 if there are multiple pull requests for this file.   You should be careful, however to avoid merge conflicts!
