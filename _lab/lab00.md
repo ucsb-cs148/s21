@@ -15,7 +15,7 @@ If you find typos or problems with the lab instructions, please report
 them on Slack
 
 
-## Step 0: Announcements 
+## Announcements 
 
 * Webpage updates
 * Possibility to switch (as the whole team) to a secondary Lab Section (Fri, 8pm?, Fri, 8am?)
