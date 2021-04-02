@@ -1,7 +1,7 @@
 ---
 assigned: 2021-04-02 13:00
 desc: Getting Started
-due: 2021-04-09 17:00
+due: 2021-04-02 17:00
 layout: lab
 num: lab00
 ready: false
@@ -12,19 +12,30 @@ slack_url: https://ucsb-cs148-s21.slack.com
 
 
 If you find typos or problems with the lab instructions, please report
-them on Piazza
+them on Slack
 
-## Step 0: Find your assigned seat and locate your mentor
+
+## Step 0: Announcements 
+
+* Webpage updates
+* Possibility to switch (as the whole team) to a secondary Lab Section (Fri, 8pm?, Fri, 8am?)
+* TA will go over today's lab work (do be done in breakout groups) 
+* Making sure teams are all 4-5 students, accommodating students without groups 
+
+## Step 0: Find your Breakout Room and associated mentor: 
 
 Seating charts are here:
 
-| Row | 4pm | 5pm | 6pm |
+| Team # | Team Name | Mentor | Breakout Room |
 |-----|-----|-----|-----|
-|1|4pm-MsgOrg	|5pm-Ride	|6pm-Climb	|
-|2|4pm-Gold	|5pm-Discord	|6pm-BuySell	|
-|3|4pm-Tree	|5pm-Sched	|6pm-Housing	|
-|4|4pm-Synth|5pm-Game	|6pm-Spotify|
-|5|4pm-GPS	|5pm-Restroom | | 
+|T1|rec-center	|Jayleen	|1	|
+|T2|food-bank	|Shiran/Sabrina	|2	|
+|T3|course-recommender	|Vincent	|3	|
+|T4|community-based-map	|Jayleen|4 |
+|T5|we-connect	|Paul |5 |
+|T6|ucsb-poll |Paul |6 |
+|T7|file-transfer|Shiran/Sabrina |7 | 
+|T8|potential-new-group|Vincent |8 | 
 {:.table .table-sm .table-striped .table-bordered}
 
 
