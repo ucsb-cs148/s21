@@ -2,7 +2,7 @@
 desc: Project Team Formation
 lecture_date: 2021-04-01 15:30
 num: lect01
-ready: false
+ready: true
 
 ---
 
