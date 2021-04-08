@@ -22,7 +22,7 @@ Today, you'll also again be put into a Breakout Room with your team during the s
 
 # Lecture: First ntroduction to Web Technologies (HTML, CSS, JavaScript)
 The first half of today's class will be a presentation on the basics of web app technologies. 
- 
+
 
 # The Slack: `_articles` vs. `_help` channels
 
@@ -97,11 +97,8 @@ One member of the group should go to the page for their main project repo, e.g.
 
 * <https://github.com/ucsb-cs148-s21/1pm-t1-rec-center>
 
-On the page for your team, you should see a screen like this one:
 
-![new emptu repo screen]({{ 'new-empty-repo.png' | relative_path }})
-
-Click on the green button `Add a README`  
+On *your own team repo*, click on the green button `Add a README`  
 
 In your README.md, put the following:
 
@@ -186,7 +183,7 @@ Add to your README.md:
 
 # Which tech stack
 
-We've provided a lot of information for you already, and when we formed groups, we took tech stack preferences into account.  So in most groups, there is likely to be a quick consensus on which tech stack to use.  But you should still discuss the pros/cons of each, and share your preferences with one another.
+We've provided some information for you already, and when we formed groups, mentors probably discussed stack possibilities a bit already.  So in some groups, there is likely to be a quick consensus on which tech stack to use.  But you should still discuss the pros/cons of each, and share your preferences with one another.
 
 If you have questions, or need guidance, ask the course staff (Prof. Hollerer, Sabrina T., Jayleen L., Paul K., Shiran W., and Vincent T.).
 
