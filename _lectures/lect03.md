@@ -20,6 +20,10 @@ You should have been:
 
 Today, you'll also again be put into a Breakout Room with your team during the section time.    
 
+# Lecture: First ntroduction to Web Technologies (HTML, CSS, JavaScript)
+The first half of today's class will be a presentation on the basics of web app technologies. 
+ 
+
 # The Slack: `_articles` vs. `_help` channels
 
 On the Slack, we will make available several pairs of channels that have the endings `_articles` and `_help`, for example:
