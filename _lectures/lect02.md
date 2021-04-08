@@ -2,7 +2,7 @@
 desc: Scrum Process
 lecture_date: 2021-04-06 15:30
 num: lect02
-ready: false
+ready: true
 
 ---
 
