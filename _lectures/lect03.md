@@ -119,9 +119,9 @@ Example:
 
 <div style="width: 50em; height: 40em; border: 4px solid #ccc; padding: 1em;" markdown="1" >
 
-# Project: Health App
+# Project: Teaching CS148
 
-Mentor: Timothy Cook
+Mentor: Self-Mentored ;) 
 
 Meeting Time: lec03 
 
