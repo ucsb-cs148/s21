@@ -128,6 +128,14 @@ Meeting Time: lec03
 Type of meeting: <one or several of [sprint planning, daily scrum, sprint review, retrospective, story time]>
 
 Team:  Sabrina Tsui✓, Tobias Höllerer ✓, Chen Zhu ✗, Jayleen Li ✓, Vincent Tieu ✓, Shiran Wang ✓, Paul Kuang ✓  
+
+Scribed Discussion:
+  Jayleen created web technology stack slides. Submitted for comments by the teaching team. Next task: Prepare Lab01. No current roadblocks
+  Chen is absent but announced it beforehand. He is currently grading h00. No current roadblocks. 
+  Tobias ... 
+  Sabrina...
+  Vincent...
+
 </div>
 
 
