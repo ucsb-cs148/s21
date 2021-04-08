@@ -117,7 +117,7 @@ In the meeting notes, write the name of your project, your mentor, and the names
 
 Example:
 
-<div style="width: 50em; height: 19em; border: 4px solid #ccc; padding: 1em;" markdown="1" >
+<div style="width: 50em; height: 40em; border: 4px solid #ccc; padding: 1em;" markdown="1" >
 
 # Project: Health App
 
@@ -130,11 +130,21 @@ Type of meeting: <one or several of [sprint planning, daily scrum, sprint review
 Team:  Sabrina Tsui✓, Tobias Höllerer ✓, Chen Zhu ✗, Jayleen Li ✓, Vincent Tieu ✓, Shiran Wang ✓, Paul Kuang ✓  
 
 Scribed Discussion:
+
   Jayleen created web technology stack slides. Submitted for comments by the teaching team. Next task: Prepare Lab01. No current roadblocks
+
   Chen is absent but announced it beforehand. He is currently grading h00. No current roadblocks. 
+
   Tobias ... 
+
   Sabrina...
+
   Vincent...
+
+  Shiran...
+
+  Paul...
+
 
 </div>
 
