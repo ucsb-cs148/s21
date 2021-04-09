@@ -24,7 +24,7 @@ Topics:
 * Scrum – A Breathtakingly Brief and Agile Introduction: <https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf>
 	
 # Background Information: Team Norms 
-* Here is some background information and esome examples of Teams Norms:
+* Here is some background information and some examples of Teams Norms:
 * * <https://www.thebalancecareers.com/team-norms-sample-1919230>
 * * <https://www.techwell.com/2012/10/how-team-norms-can-boost-team-effectiveness> 
 
