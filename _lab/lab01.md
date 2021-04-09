@@ -32,41 +32,105 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 
 
-# Checking over your deliverables for [lab01]({{'/lab/lab01/' | relative_url }}) 
+# Step 1: Checking over your deliverables for [lab01]({{'/lab/lab01/' | relative_url }}) 
 
-The following deliverables are due for [lab01]({{'/lab/lab01/' | relative_url }}) .   Check over them and make sure these are complete by the end of Section today.
-The mentors/TAs will start the official grading after this lab ({{page.num}}) is complete this evening.  So this is your last opportunity.
+Deliverables are due today for [lab00]({{'/lab/lab00/' | relative_url }}) .   Check over them and make sure these are complete by the end of Section today.
+The mentors/TAs will start the official grading after this lab ({{page.num}}) is complete this evening.  So this is your last opportunity for those points.
 
-Also look at the green "Graded" boxes in the instructions for [lab01]({{'/lab/lab01/' | relative_url }}) 
+# Step 2: Document your meetings
 
-The following list is offered as additional clarification of these graded items for [lab01]({{'/lab/lab01/' | relative_url }}) 
+During [lec03]({{'/lec/lec03/' | relative_url }}), you have first practiced logging meetings in GitHub. Make sure to log today's meeting as well, and capture it as `lab01`.md in the `sprint01` folder you created in lecture. Reminder: In your github repository, you structure the documentation of your meetings into 'sprints' (which are week-long unless you as a team decide on a different interval). 
 
-* There should be a Kanban board (a Github Project associated with your repo) for your team
-* That Kanban board should have a complete set of user stories on it, that, when complete, results in a minium viable product for
-   your app; one that clearly delivers value to the user.   User stories should be plain old "cards" on the Kanban board.
-* There should be a complete set of issues for each of those user stories; a set of issues that are specific TODO's that a individual, pair, or 
-   sub-group of your project team can pick up and start coding from.  Each of those issues should have a clear set of criteria for
-   what it means to be "done" with that issue.
-* In addition, there should be set of issues for creating "Hello World" apps;  There should be one per each team member or pair of team
-   members, and each team member or pair should be *assigned* to that issue on the Kanban board.
+<div class="grade" markdown="1">
 
-# Starting Sprint02 
-Some time during or after this Lab Section, you will enter Sprint02. This may be different for each of the teams - it depends on when you do your sprint review and sprint planning meetings. In any case, when you switch over to Sprint02, please create a new team/sprint02 directory in your GitHub and document all your sprint02 meetings in that directory from there on. 
+**Graded**: (20 pts) You earn these points if/only if:
+* your group logged `lec03.md` and `lab01.md` meetings in the `sprint01` subfolder. 
+* you took accurate attendance, accounting for all members of your group
+   (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
+* the meeting notes the scribe took are added to the above files. For future meetings, you will replace 'lab01' with the respective meeting time denominator (e.g. lec05 or 01-17-2pm)
+</div>
 
-# Conduct a standup meeting (5-10 minutes)
+From now on, please document all your meetings in the github repository in this way.
 
-You are encouraged to conduct a standup meeting as a team.
 
-Find a space in which to gather, standing in a circle, and answer three questions:
-* What have you done since our last team check-in
-* What are you working on now?
-* Are there any barriers or blocks to your progress?
+# Step 3: Discuss the User Journey
 
-Direct your comments *to the entire team* (not to your mentor/TA/instructor, or a perceived peer team leader)
+As a team, discuss the "user journey" for your proposed application. 
 
-Suggestion: Set a timer for six minutes.  
-* If six minutes goes by and you are aren't done, you are probably letting each member speak more than is ideal; try to focus just on answering the three questions.  
-* If there are issues that need to be discussed outside of standup, you are encouraged to NOTE THEM, and come back to them as a team AFTER standup.
+That is, try to describe all of the events that lead someone to seek out your product and have an interaction with it, or perhaps a series of interactions. 
+
+There should be a beginning, a middle and an end, where **value is exchanged**: 
+* the user came with a *goal, need, or desire*, and 
+* that goal was *met*, that need was *satisfied*, or that desire was *fulfilled*. 
+
+Identify: 
+* What is that goal, need or desire?
+* What is the series of events, in chronological order?
+
+Discuss this with your group, and capture (perhaps in a Google Doc?) whatever comes to mind.  
+
+The beginning of your user journey is a *Problem Scenario* as discussed in class, which is basically a short story, involving a subset of the concrete *Personas* you came up with in assignment *h02* and expressing what the people eventually will want to achieve with your product and what the problem is with current solutions.
+
+Beyond the problem scenario, you can document the design of your user journey in free form. 
+
+At this stage, it is important to get the ideas flowing.  There is no specific "right or wrong" way to get your ideas down on paper (or, rather, eventually, a GitHub markdown file).  Just write something
+that captures the group consensus, or the candidate proposals, for the "user journey".
+
+It can take any form: a list, or pictures,  a collection of <tt>As a __ I can __ so that __ </tt> type stories, or any combination of those.  Don't get bogged down on what form it takes.  Just get something down.
+
+NOTE: Try to keep your description VERY HIGH LEVEL, avoiding specific implementation details.
+
+* Good:  User selects a beverage from among several choices
+* Too much detail: User clicks on a drop down menu; each beverage has an image which flashes with an animation as you hover over it, etc. etc. 
+
+You don't have to do this "perfectly" the first time.  You may need to first get it all out as "brain dump" that contains too much detail, and then move to a higher level.  But get to the higher level as soon as you can.
+
+Don't move on to the next step until you have the "spine" of your customer journey captured in some fashion.
+
+You'll know you have it, and you are ready for this step when:
+
+* It tells a coherent story.  You can describe this to any reasonable person 
+   (e.g. a UCSB student that isn't in this class, particularly one that might be a target user) 
+   and they will be able to follow what you are saying.
+* None of your "spine" should be "implementation" focused.  It shouldn't depend, for example, even on whether
+  it happens to be a webapp, or a mobile app, or even an app at all. It shoudn't depend on technology specifics.
+
+* The <b>value exchange</b> part is clearly identified: the goal/need/desire of the user, and how that gets acheived/met/fulfilled
+
+<div class="grade" markdown="1">
+
+**Graded**: (20 pts) You earn these points if/only if:
+* your group produced a problem scenario in the form of a github file './team/problem_scenario.md', and 
+* a user journey documentation in the format of your choice. Summarize what you came up with in a file './team/user_journey.md'
+</div>
+
+# Step 4: Move towards minimum viable product (MVP)
+
+(This step is not graded, per se, but you can't meaningfully accomplish later stages if you try to skip it.)
+
+At the moment, you have an idea and scenarios for your application.
+
+At this stage, the story you have might have gone in one of two directions:
+
+* **Grand Vision** (GV): You might have a story that really is very much your "ideal dream state" of the application when fully built out.   Keep in mind that this may be far more than you can reasonably accomplish in the next 8 weeks.
+* **Minimum Viable Product** (MVP) You might have already been thinking in terms of "minimal viable product", and you might have a really nice thin slice of value for your end user, something you might *actually* be able to deliver in, say 4 weeks (or 1 week, or even 1 day.)
+   
+It's likely that each of our teams will be somewhere on the spectrum between these two extremes.  Discuss where you think
+your team is on that spectrum.
+   
+Assuming that your team is somewhere closer to GV than to MVP, you'll now want to set aside the description of your
+GV for the moment.  Use it as a reference to inform your efforts to redo the exercise, but focusing on an MVP.
+
+Maybe you can draw on top of your GV description, and highlight the parts that you think might
+be part of your MVP.
+
+The big question to keep in mind is:
+
+> How can we make "this" possible for the user with less complexity, less code, less time
+
+Here, "this" is the goal/need/desire.
+
+
 
 # Deliverables for lab02
 
@@ -195,52 +259,5 @@ This component of your team grade is designed to encourage each team member to r
 
 </div>  
 
-# About assigning issue to team members
-
-It is possible to assign multiple users to an issue.
-
-You may work on issues either:
-* as an individual
-* as a pair
-* as a "mob" (like pair programming, but with more than one person)
-
-However, if you are working as a pair or a mob, you should *really* be
-working as a pair or a mob.  That is, you should plan times to get
-together, ideally in person, but at least via screen sharing, and work
-together on the code.
-
-What we don't encourage is for Alice and Bob to be assigned to the
-issue, and then Alice and Bob take turns "solo programming" on the
-issue.  That's a way of working but not the one we are encouraging you
-to pursue.
-
-# About limiting work in progress
-
-Throughout the rest of the course, up until we wrap things up with the final project delivery, you are encouraged to:
-* ensure that each team member, at all times, is assigned to at least one in-progress issue
-* limit the number of in-progress issues.  
-
-Being assigned to more than one in-progress issue is occasionally unavoidable, but typically not ideal.  An example of a case where you may be tempted to do it is when you are blocked on an issue (e.g. waiting for someone else to finish something you need). In that case, you might decide to start another issue so that you are assigned to two in-progress issues at a tine.  
-
-But the experience of most teams is that it's best to try not to do this too often.  
-
-Context switching among issues has a cost, and having lots of work in progress can slow a team down further and complicate the delivery of working software that adds value for the user.
-
-# Finally: Choose a leader for next week's retrospective
-
-Choose a leader for next week's sprint retrospective.  That sprint retrospective will take the entire lab period next week.  Attendance at that 
-lab is therefore particularly important.  
-
-* Put the name of that leader in a card in the "TODO" column of your Kanban board, e.g. "Chris will lead team in first Retro"
-
-Note, for full course credit, each of you needs to take a turn taking a leadership role in some activity.  
-   * If you don't lead a retro, you can be product owner, scrum master, or make a class presentation at some point.
-   * So you are encouraged to volunteer.  
-   * Once you've led one retro, you'll have fulfilled your duty to exercise leadership at least once. You will likely be able to hold 3, or perhaps 4 retrospectives in total. 
-   
-<div class="grade" markdown="1">
-**Graded ({{page.num}}-T)**: (10 pts) towards the team part of your grade for {{page.num}}.  
-
-This part of the team grade is for the mechanics of:
-* naming a retro leader for the lab03 retro and putting a card in the TODO column with their name
-</div>  
+# Starting Sprint02 
+Some time during or after this Lab Section, you will enter Sprint02. This may be different for each of the teams - it depends on when you do your sprint review and sprint planning meetings. In any case, when you switch over to Sprint02, please create a new team/sprint02 directory in your GitHub and document all your sprint02 meetings in that directory from there on. 
