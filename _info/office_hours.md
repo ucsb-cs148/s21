@@ -13,11 +13,4 @@ table.hdrLinks * td { padding-right: 2em;}
 table.hdrLinks * td.curr { font-weight:bold; }
 </style>
 
-<h4>Tobias Höllerer (instructor) — <strong>Office Hours</strong>:</h4>
-* Wed, 4:30-5:30pm, and by appointment
-
-<h4>Sabrina Tsui (TA) — <strong>Office Hours</strong>:</h4>
-* TBA
-
-<h4>Learning Assistants — <strong>Office Hours</strong>:</h4>
-* TBA
+<iframe src="https://calendar.google.com/calendar/embed?src=c_hssosr05i0m48m86al3u7trvfg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
