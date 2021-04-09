@@ -127,7 +127,7 @@ Meeting Time: lec03
 
 Type of meeting: <one or several of [sprint planning, daily scrum, sprint review, retrospective, story time]>
 
-Team:  Sabrina Tsui✓, Tobias Höllerer ✓, Chen Zhu ✗, Jayleen Li ✓, Vincent Tieu ✓, Shiran Wang ✓, Paul Kuang ✓  
+Team:  Sabrina Tsui✓, Tobias Höllerer ✓, Chen Zhu ✗, Jayleen Li ✓, Vincent Tieu ✓, Shiran Wang ✓, Paul Kuang ✓  [x] [ ] 
 
 *Scribed Discussion:*
 
