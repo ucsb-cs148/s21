@@ -201,6 +201,9 @@ If working in a pair/sub-group, *each* member of the pair should demo the app, t
 
 NOTE: If you cannot schedule with your own mentor, you may coordinate on slack between your mentor and another mentor/TA holding open lab hours that better fit your schedule.  Please use the slack to coordinate this.  
 
+# Steps for Heroku setup and deployment
+
+If you are using Heroku for hosting a web app, you may find [these instructions from CS48 a year ago](https://ucsb-cs48.github.io/s20/lab/lab01/) helpful. 
 
 # Starting Sprint02 
 Some time during or after this Lab Section, you will enter Sprint02. This may be different for each of the teams - it depends on when you do your sprint review and sprint planning meetings. In any case, when you switch over to Sprint02, please create a new team/sprint02 directory in your GitHub and document all your sprint02 meetings in that directory from there on. 
