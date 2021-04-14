@@ -1,5 +1,5 @@
 ---
-desc: Scrum Process
+desc: React Overview, Kanban Board
 lecture_date: 2021-04-13 15:30
 num: lect04
 ready: true
