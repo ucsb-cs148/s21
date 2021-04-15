@@ -1,7 +1,7 @@
 ---
-assigned: 2020-04-16 16:00
+assigned: 2020-04-16 13:00
 desc: Kanban Boards towards MVP Demo Video
-due: 2020-05-07 15:00
+due: 2020-04-30 14:00
 layout: lab
 num: lab02
 ready: false
