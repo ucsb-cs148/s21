@@ -1,7 +1,7 @@
 ---
 desc: "Project Management: README.md, Leadership, Retros, Learning plan"
 lecture_date: 2021-04-15
-num: lect07
+num: lect05
 ready: true
 ---
 
