@@ -1,8 +1,8 @@
 ---
 assigned: 2020-04-16 13:00
 desc: Kanban Boards towards MVP Demo Video
-due: 2020-04-30 14:00
-due_1_week: 2020-04-22 14:00
+due: 2020-04-23 14:00
+due_2_weeks: 2020-04-30 14:00
 layout: lab
 num: lab02
 ready: false
@@ -49,7 +49,7 @@ lab02 is a team-based grade for several check points towards the MVP demo.
 
 <div class="grade" markdown="1">
  
-**Graded: ({{page.num}}-I)**: (20 pts) You earn these points if/when you, within one week from the start of this assignment (i.e. by {{page.due_1_week |  date: "%a, %b %d at %l:%M%p"}}):
+**Graded: ({{page.num}}-I)**: (20 pts) You earn these points if/when you, within one week from the start of this assignment (i.e. by {{page.due |  date: "%a, %b %d at %l:%M%p"}}):
 
 * are assigned to an issue that has been moved from To-Do to In-Progress to Done on the Kanban board, tracking the progress of your issue from start to finish.
 
@@ -120,7 +120,7 @@ This part of the team grade is for the mechanics of:
 * (10 pts) your LEARNING.md file (described in [lect05](https://ucsb-cs148.github.io/s21/lectures/lect05/)) is filled with information about your tech stack background and learning trajectory.  
 </div>  
 
-# MVP Demo, due {{page.due}}
+# MVP Demo, due {{page.due_2_weeks}}
 
 The YouTube video <https://youtu.be/k0Je8ASh4jo>
 explains how you can create an MVP demo video using Zoom and YouTube:
