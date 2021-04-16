@@ -108,13 +108,13 @@ with people other than enrolled students and course staff.
 Your video should be no longer than 5 minutes and should follow the instructions given in <https://ucsb-cs148.github.io/s21/lectures/lect12/>,
 which are repeated here:
 
-## Demo from your prod app
+## Demo of your production app
 
-Your demo should be from your production app (`prod` on Heroku), not from a version deployed on `localhost`.
+Your demo should be from your production app (e.g. `prod` on Heroku), not from a version deployed on `localhost`.
 
 Students in the class, as well as Instructors/TAs/LAs should be able to visit your production link and try out the app after watching your video.
 
-So, make every effort to have your production version ready to go with a stable MVP on Thursday.
+So, make every effort to have your production version ready to go with a stable MVP for the deadline lab section.
 
 ## Additional notes about the MVP demo
 
