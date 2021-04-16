@@ -10,7 +10,7 @@ ready: true
 ---
 
 <div style="display:none">
-https://ucsb-cs148.github.io/w21/lab/lab01/
+https://ucsb-cs148.github.io/s21/lab/lab01/
 </div>
 
 <style>
