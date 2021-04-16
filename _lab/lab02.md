@@ -115,7 +115,7 @@ Note, for full course credit, each of you needs to take a turn taking a leadersh
 
 This part of the team grade is for the mechanics of:
 * (10 pts) naming a retro leader for the lect06 retro and record their name in your new LEADERSHIP.md file. Also list there the leaders for Sprint planning meetings, and other major coordination meetings. 
-* (10 pts) 
+* (10 pts) your LEARNING.md file (described in [lect05](https://ucsb-cs148.github.io/s21/lect/lect05/)) is filled with information about your tech stack background and learning trajectory.  
 </div>  
 
 # MVP Demo, due {{page.due}}
