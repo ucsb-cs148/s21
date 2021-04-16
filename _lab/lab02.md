@@ -10,6 +10,28 @@ github_org: ucsb-cs148-s21
 gauchospace: https://gauchospace.ucsb.edu/courses/course/view.php?id=117032
 ---
 
+<div style="display:none">
+https://ucsb-cs148.github.io/s21/lab/lab02/
+</div>
+
+<style>
+div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #efe; }   
+</style>
+
+<div style="float:right; width: auto;">
+
+<table style="margin-top:1em;">
+<tr>
+   <th>Points</th>
+</tr>
+<tr>
+   <td class="pointCount"></td>
+</tr>
+</table>
+
+</div>
+
+
 lab02 is a team-based grade for several check points towards the MVP demo.
 
  * Make sure your README.md contains a paragraph about the tech stack you are planning to use, as well as mention user roles
