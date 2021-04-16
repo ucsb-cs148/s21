@@ -58,6 +58,7 @@ Before Thursday's lecture, as a team, please add a `.gitignore` and a `LICENSE.m
 The `.gitignore` will depend on your tech stack choice.
 * Create a file called `.gitignore` in the root of your repo
 * For next.js, a good start is the `.gitignore` for Node, found here: <https://github.com/github/gitignore/blob/master/Node.gitignore>
+* For a Spring Boot project, we would recommend the contents from this article: <https://ucsb-cs48.github.io/javatopics/gitignore_maven/>
 
 For the `LICENSE.md`:
 * Consult <https://choosealicense.com/>.
