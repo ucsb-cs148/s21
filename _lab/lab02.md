@@ -30,6 +30,8 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </table>
 
 </div>
+<br>
+
 
 
 lab02 is a team-based grade for several check points towards the MVP demo.
