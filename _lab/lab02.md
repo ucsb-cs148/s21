@@ -5,7 +5,7 @@ due: 2020-04-23 14:00
 due_2_weeks: 2020-04-30 14:00
 layout: lab
 num: lab02
-ready: false
+ready: true
 github_org: ucsb-cs148-s21
 gauchospace: https://gauchospace.ucsb.edu/courses/course/view.php?id=117032
 ---
