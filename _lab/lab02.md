@@ -55,7 +55,7 @@ Note that each time an issue is moved or assigned, the date/time is tracked; so 
 
 But doing it "after the fact" is better than not doing it at all; if nothing else, it helps you learn the mechanics to that you can know better how to do it next time.  So if you forget to do it as you work, go back and do it, going through the motions.  This will earn you partial credit, which is better than getting a zero for this part.
 
-**Graded (lab02-T)**: (60 pts) is your Team grade for {{page.num}}.  As part of this grade:
+**Graded (lab02-T)**: is your Team grade for {{page.num}}.  As part of this grade:
 
 * (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing   
 * (10 pts) There should be at least one user story in the In-Progress or Done column for your team. If there is more than one in the In-Progress column at any given time, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
@@ -111,7 +111,7 @@ Note, for full course credit, each of you needs to take a turn taking a leadersh
    * Once you've led one retro, you'll have fulfilled your duty to exercise leadership at least once. You will likely be able to hold 3, or perhaps 4 retrospectives in total. 
    
 <div class="grade" markdown="1">
-**Graded ({{page.num}}-T)**: (20 pts) towards the team part of your grade for {{page.num}}.  
+**Graded ({{page.num}}-T)**: towards the team part of your grade for {{page.num}}.  
 
 This part of the team grade is for the mechanics of:
 * (10 pts) naming a retro leader for the [lect06](https://ucsb-cs148.github.io/s21/lectures/lect06/)) retro and record their name in your new LEADERSHIP.md file (described in [lect05](https://ucsb-cs148.github.io/s21/lectures/lect05/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
