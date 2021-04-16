@@ -57,10 +57,11 @@ But doing it "after the fact" is better than not doing it at all; if nothing els
 
 **Graded (lab02-T)**: (60 pts) is your Team grade for {{page.num}}.  As part of this grade:
 
-* (15 pts) There should be at least one user story in the In-Progress or Done column for your team. If there is more than one in the In-Progress column at any given time, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
-* (15 pts) There should be at least one issue under each user story that supports implementing that user story.
-* (30 pts) Each user on the team should have been assigned to at least one issue in the in-progress column.   
-   For teams of 5, this part of your grade is 6 points per team* member.  For teams of 4, it is 7.5 points per team member. 
+* (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing   
+* (10 pts) There should be at least one user story in the In-Progress or Done column for your team. If there is more than one in the In-Progress column at any given time, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
+* (10 pts) There should be at least one issue under each user story that supports implementing that user story.
+* (20 pts) Each user on the team should have been assigned to at least one issue in the in-progress column.   
+   For teams of 5, this part of your grade is 4 points per team member.  For teams of 4, it is 5 points per team member. 
 
 This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member be making a contribution to the project.  The most important learning goal of the course is to learn to work as a team, supporting one another.
 
@@ -110,10 +111,11 @@ Note, for full course credit, each of you needs to take a turn taking a leadersh
    * Once you've led one retro, you'll have fulfilled your duty to exercise leadership at least once. You will likely be able to hold 3, or perhaps 4 retrospectives in total. 
    
 <div class="grade" markdown="1">
-**Graded ({{page.num}}-T)**: (10 pts) towards the team part of your grade for {{page.num}}.  
+**Graded ({{page.num}}-T)**: (20 pts) towards the team part of your grade for {{page.num}}.  
 
 This part of the team grade is for the mechanics of:
-* naming a retro leader for the lab03 retro and putting a card in the TODO column with their name
+* (10 pts) naming a retro leader for the lect06 retro and record their name in your new LEADERSHIP.md file. Also list there the leaders for Sprint planning meetings, and other major coordination meetings. 
+* (10 pts) 
 </div>  
 
 # MVP Demo, due {{page.due}}
