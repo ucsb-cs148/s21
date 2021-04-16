@@ -36,7 +36,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 lab02 is a team-based grade for several check points towards the MVP demo.
 
- * Make sure your README.md contains a paragraph about the tech stack you are planning to use, as well as mention user roles
+ * Make sure your README.md contains a paragraph about the tech stack you are planning to use, as well as mention user roles (see [this description](https://ucsb-cs148.github.io/s21/lab/lab02-addendum))
  * Kanban board: 
     * There should be a Kanban board (a Github Project associated with your repo) for your team
     * That Kanban board should have a complete set of user stories on it, that, when complete, results in a minium viable product for
@@ -59,7 +59,7 @@ But doing it "after the fact" is better than not doing it at all; if nothing els
 
 **Graded (lab02-T)**: is your Team grade for {{page.num}}.  As part of this grade:
 
-* (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing   
+* (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing user roles (see [this description](https://ucsb-cs148.github.io/s21/lab/lab02-addendum))  
 * (10 pts) There should be at least one user story in the In-Progress or Done column for your team. If there is more than one in the In-Progress column at any given time, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
 * (10 pts) There should be at least one issue under each user story that supports implementing that user story.
 * (20 pts) Each user on the team should have been assigned to at least one issue in the in-progress column.   
