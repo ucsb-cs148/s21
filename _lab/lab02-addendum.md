@@ -6,6 +6,8 @@ ready: true
 github_org: ucsb-cs148-s21
 ---
 
+
+
 1. In your README.md, add a line for which tech stack you are using, Next.js or Spring Boot.
 2. Add some more detail about the plan for your app to your README.md
    * Minimum, a single paragraph that expands on the one-sentence description
@@ -18,7 +20,7 @@ github_org: ucsb-cs148-s21
 
 We've provided a lot of information for you already, and when we formed groups, we took tech stack preferences into account.  So in most groups, there is likely to be a quick consensus on which tech stack to use.  But you should still discuss the pros/cons of each, and share your preferences with one another.
 
-If you have questions, or need guidance, ask the course staff (Prof. Conrad, Scott, Andrew L, Bryan T, Cole B., Kristin H, and Victor S.).
+If you have questions, or need guidance, ask the course staff.
 
 # A single paragraph
 
