@@ -2,7 +2,7 @@
 desc: "First Retrospective"
 lecture_date: 2021-04-20
 num: lect06
-ready: false
+ready: true
 ---
 
 <style>
@@ -37,6 +37,8 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 # Procedure for First Retro
+
+You may or may not have done an official `Sprint Review` meeting yet. In a way, you are doing those via your check-ins with your mentors and that is sufficient in a cinch, but we encourage you to hold and log official Sprint Review meetings at the end of each of your Sprints. In any case, you should have enough information about what worked and didn't work in your Sprint(s) so far (and from your homeworks) to hold your first Retrospective meeting today! 
 
 # Today: Retrospective
 
