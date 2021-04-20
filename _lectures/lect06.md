@@ -47,8 +47,8 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # Deliverable  
 
-* Add to your team's repo, under `team` directory
-  `team/RETRO_01.md`
+* Add to your team's repo, under `team` directory a folder called `retrospectives`
+* Create a file `team/retrospectives/RETRO_01.md`
 
 
 * Add the following information:
@@ -75,7 +75,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
  
 * After the Retro
   
-  **Retro leader**: add Section to `team/RETRO_01.md`
+  **Retro leader**: add Section to `team/retrospectives/RETRO_01.md`
   
   ```
   ## Retro Assessment
