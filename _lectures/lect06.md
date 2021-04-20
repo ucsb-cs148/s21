@@ -28,7 +28,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-I) (5 pts) You earn these individual points if you participated in this retrospective.
 
-**Graded**: ({{page.num}}-I) (10 pts) You earn these points for submitting feedback on overall team performance via a CATME.org form survey that you will get email invitations and reminders for.
+**Graded**: ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a CATME.org form survey that you will get email invitations and reminders for.
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your retrospective; 4 per team member for teams of 5,  5 points per team member for teams of four.
 
