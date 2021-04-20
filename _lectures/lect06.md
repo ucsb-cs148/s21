@@ -32,7 +32,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your retrospective; 4 per team member for teams of 5,  5 points per team member for teams of four.
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points when the content in `team/RETROS.md` is updated per the instructions.
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points when the content in `team/retrospectives/RETRO_01.md` is updated per the instructions.
 
 </div>
 
