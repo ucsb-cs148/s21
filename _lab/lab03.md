@@ -26,7 +26,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 
-<# Grading for First Retro Participation and Artifact is part of **Lab03 (Fri, Apr. 23 - Fri Apr. 30)**
+# Grading for First Retro Participation and MVP Preparation
 
 <div class="grade" markdown="1">
 
