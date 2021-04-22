@@ -148,4 +148,5 @@ team relations and team productivity. :-)
 # Today:
 
 * Standup
+* Practice branches and pull requests (PR)
 * Work towards MVP a week from today
