@@ -40,7 +40,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 New since [lect06](https://ucsb-cs148.github.io/s21/lectures/lect06/): 
 
-**Graded**: ({{page.num}}-I) (10 pts) You earn these individual points if you gave a 'thumbs up' in Slack to at least one article you appreciated in one of the ..._articles channels.
+**Graded**: ({{page.num}}-I) (10 pts) You earn these individual points if you gave a 'thumbs up' in Slack to at least one article you appreciated in one of the `..._articles` channels.
 
 **Graded**: ({{page.num}}-T) (10 pts) You earn these team points when you recorded the outcome of (one of) your Retro experiements in `team/retrospectives/RETRO_01.md` by the due date of the MVP. 
 
