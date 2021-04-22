@@ -6,16 +6,19 @@ ready: true
 ---
 
 # Announcements
-* Only 13 people have joined any of the Slack groups for pointers and tutorials. We need to increase that and especially people with limited background need to **do** the tutorials.
+* h04 is (uncharacteristically!) due tomorrow, Fri @ noon. h05 will be posted then and be due next Tue. 
+* Only 13 people have joined any of the Slack groups for pointers and tutorials. We want to increase that and especially people with limited background need to **do** the tutorials.
   * In Slack, you mouse over the "Channels" header, click '+', select "Browse channels", and mouse over and join the channels you like. We have `git`, `js`, `py`, and `mobile`. For each of these, `..._articles` is for posting, finding, and upvoting useful articles, `..._help` is for requesting help and answering questions on certain subtopics.
   * We will assign individual points in the coming lab for upvoting at least one article that you appreciated. 
 * An overview spreadsheet of all articles (in which we will reflect the upvotes as well) can be found [here](https://docs.google.com/spreadsheets/d/1YLGB26XmxqvwsMS9n8y8plrk2tDm6DXXRGijT4aJfNg/edit?usp=sharing)   
+
+# Sprint Planning
+* [Sprint Planning](https://www.agilealliance.org/glossary/sprint-planning)    
 
 # Continuous Integration / Continouous Delivery (CI/CD) 
 
 * **Continuous Delivery**: Software development process that aims to build software that is *always* ready to be deployed into production
 * **Continuous Integration**: Technique where every developer on a project should integrate their work daily with every other developer
-
 
 # Feature Branch / Pull Request Workflow
 
@@ -159,5 +162,6 @@ team relations and team productivity. :-)
 # Today:
 
 * Standup
+* If not done yet: Sprint planning for MVP! 
 * Practice branches and pull requests (PR)
 * Work towards MVP a week from today. See also [lab03](https://ucsb-cs148.github.io/s21/lab/lab03/)
