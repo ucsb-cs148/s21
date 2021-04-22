@@ -7,7 +7,7 @@ ready: true
 
 # Announcements
 * Only 13 people have joined any of the Slack groups for pointers and tutorials. We need to increase that and especially people with limited background need to **do** the tutorials.
-  * In Slack, you mouse over the "Channels" header, click '+', select "Browse channels", and mouse over and join the channels you like. We have `git`, `js`, `py`, and `mobile`. `..._articles`is for posting, finding, and upvoting useful articles, `..._help`is for requesting help and answering questions on certain topics.
+  * In Slack, you mouse over the "Channels" header, click '+', select "Browse channels", and mouse over and join the channels you like. We have `git`, `js`, `py`, and `mobile`. For each of these, `..._articles` is for posting, finding, and upvoting useful articles, `..._help` is for requesting help and answering questions on certain topics.
   * We will assign individual points in the coming lab for upvoting at least one article that you appreciated. 
 * An overview spreadsheet of all articles (in which we will reflect the upvotes as well) can be found [here](https://docs.google.com/spreadsheets/d/1YLGB26XmxqvwsMS9n8y8plrk2tDm6DXXRGijT4aJfNg/edit?usp=sharing)   
 
