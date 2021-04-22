@@ -7,7 +7,7 @@ ready: true
 
 # Announcements
 * Only 13 people have joined any of the Slack groups for pointers and tutorials. We need to increase that and especially people with limited background need to **do** the tutorials.
-  * In Slack, you mouse over the "Channels" header, click '+', select "Browse channels", and mouse over and join the channels you like. We have `git`, `js`, `py`, and `mobile`. For each of these, `..._articles` is for posting, finding, and upvoting useful articles, `..._help` is for requesting help and answering questions on certain topics.
+  * In Slack, you mouse over the "Channels" header, click '+', select "Browse channels", and mouse over and join the channels you like. We have `git`, `js`, `py`, and `mobile`. For each of these, `..._articles` is for posting, finding, and upvoting useful articles, `..._help` is for requesting help and answering questions on certain subtopics.
   * We will assign individual points in the coming lab for upvoting at least one article that you appreciated. 
 * An overview spreadsheet of all articles (in which we will reflect the upvotes as well) can be found [here](https://docs.google.com/spreadsheets/d/1YLGB26XmxqvwsMS9n8y8plrk2tDm6DXXRGijT4aJfNg/edit?usp=sharing)   
 
@@ -28,13 +28,13 @@ When making a change to your team's repo, you should typically NOT be making cha
  
 Reasonable exceptions: small changes to documentation only (not touching code).
 
-# So what do you do instead?
+## So what do you do instead?
 
 * Make a feature branch
 * Work on the feature branch
 * When done, make a Pull Request
 
-# Whoa, whoa getting ahead of ourselves: issue first.
+## Whoa, whoa getting ahead of ourselves: issue first.
 
 WAIT.
 
@@ -56,7 +56,7 @@ Before you start working on a branch:
 Once your team is in steady state, you should always be assigned to at least one in-progress issue
 on the Kanban board.
 
-# Ok, got an issue.  How do you make a feature branch?
+## Ok, got an issue.  How do you make a feature branch?
 
 Like this.  Always start with a fresh copy of master:
 
@@ -75,14 +75,14 @@ The important thing is to have one.
   on a different convention, and a rationale for why that process is better.
 * If you decide on a different convention, document it in a file `team/CONVENTIONS.md`
 
-# Working on a feature branch
+## Working on a feature branch
 
 You may need, periodically, to push your changes to GitHub.  Use the branch name in place of `master`:
 
 * `git push origin thAddMenuItem` 
 
 
-# Rebasing on master
+## Rebasing on master
 
 You may need, from time to time, to rebase your branch on master.
 
@@ -116,9 +116,9 @@ Eventually, you'll have a new version of your branch, at which point you'll want
 ```
 git push --force origin thAddMenuItem
 ```
-# Creating a Pull Request
+## Creating a Pull Request
 
-When you create a pull request, you have to select a *base* branch and a *compare* branch.
+When you create a pull request, which you can easily do through the github web interface, you have to select a *base* branch and a *compare* branch.
 
 * The "base" branch is typically `master`; it's where the "old code" lives
 * The "compare" branch is typically your feature branch; it's where the "new code" lives.
@@ -132,7 +132,7 @@ Once you create a Pull Request, you should:
 * Consider posting a link to the PR on your team's Slack channel (there are ways to automate this, but let's not get ahead of ourselves.)
 * Drag the issue you are working on from the "In Progress" column into the "In Review" column.
 
-# Reviewing a PR
+## Reviewing a PR
 
 If you are asked to review a PR, please do so promptly.
 
@@ -160,4 +160,4 @@ team relations and team productivity. :-)
 
 * Standup
 * Practice branches and pull requests (PR)
-* Work towards MVP a week from today
+* Work towards MVP a week from today. See also [lab03](https://ucsb-cs148.github.io/s21/lab/lab03/)
