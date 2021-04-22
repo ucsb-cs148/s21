@@ -103,7 +103,7 @@ Eventually, you'll have a new version of your branch, at which point you'll want
 * then "force push" to update GitHub with the new branch history for your branch (your changes "rebased" on the newest version of `master`).
 
 ```
-git push --force origin pcAddMenuItem
+git push --force origin thAddMenuItem
 ```
 # Creating a Pull Request
 
