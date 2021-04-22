@@ -8,6 +8,22 @@ due: 2020-04-30 13:00
 github_org: "ucsb-cs148-s21"
 ---
 
+<style>
+div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #efe; }   
+</style>
+
+<div style="float:right; width: auto;">
+
+<table style="margin-top:1em;">
+<tr>
+   <th>Points</th>
+</tr>
+<tr>
+   <td class="pointCount"></td>
+</tr>
+</table>
+
+</div>
 
 
 <# Grading for First Retro Participation and Artifact is part of **Lab03 (Fri, Apr. 23 - Fri Apr. 30)**
