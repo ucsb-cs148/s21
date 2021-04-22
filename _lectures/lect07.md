@@ -128,7 +128,7 @@ If you are asked to review a PR, please do so promptly.
 Diplomacy is good... it's better to ask questions than make statements.
 
 ```
-I wonder if this code would be clearer if factored out both the long if
+I wonder if this code would be clearer if we factored out both the long if
 part and the long else part into separate functions?   Choosing
 some good names for those and some good parameter values might make this
 code easier to understand.  What do you think?
