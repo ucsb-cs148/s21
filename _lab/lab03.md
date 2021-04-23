@@ -75,12 +75,12 @@ At or after next week's (week 5) lab session you'll be asked to evaluate other t
 
 ## Add the following information to your README.md: 
 
-/*:
-## Installation
 
-### Prerequisites
-
-TODO: List what a user needs to have installed before running the installation instructions below (e.g., git, which version(s) of your framework(s) of choice)
+> ## Installation 
+> 
+> ### Prerequisites
+> 
+> TODO: List what a user needs to have installed before running the installation instructions below (e.g., git, which version(s) of your framework(s) of choice)
 
 ### Dependencies
 
