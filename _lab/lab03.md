@@ -79,7 +79,11 @@ At or after next week's (week 5) lab session you'll be asked to evaluate other t
 
 ## Add the following information to your README.md: 
 
-<div class="readme" markdown="1>
+<style>
+div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #eee; }   
+</style>
+
+<div class="grade" markdown="1>
 
 ## Installation
 
