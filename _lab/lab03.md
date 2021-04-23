@@ -12,10 +12,6 @@ github_org: "ucsb-cs148-s21"
 div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #efe; }   
 </style>
 
-<style>
-div.readme { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #eee; }   
-</style>
-
 <div style="float:right; width: auto;">
 
 <table style="margin-top:1em;">
@@ -77,11 +73,7 @@ At or after next week's (week 5) lab session you'll be asked to evaluate other t
 ## Point us to your video
 *  create a file `team/MVP_DEMO.md` containing your MVP video link and any additional information you see fit that you think doesn't belong in the project's README.md  
 
-## Add the following information to your README.md: 
-
-<style>
-div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #eee; }   
-</style>
+# Add the following information to your README.md: 
 
 <div class="grade" markdown="1>
 
