@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "First Retro and MVP Preparation"
 assigned: 2021-04-23 13:00
 due: 2020-04-30 13:00
