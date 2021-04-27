@@ -40,7 +40,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 New since [lect06](https://ucsb-cs148.github.io/s21/lectures/lect06/): 
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when you recorded the outcome of (one of) your Retro experiements in `team/retrospectives/RETRO_01.md` by the due date of the MVP. 
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when you recorded the outcome of (one of) your Retro experiments in `team/retrospectives/RETRO_01.md` by the due date of the MVP. 
 
 **Graded**: ({{page.num}}-T) (10 pts) When MVP Sprint Planning meeting took place and was documented in your team/sprint0?/ folder (question mark for number of current sprint).
 
