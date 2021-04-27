@@ -18,7 +18,7 @@ Here is the point percentage breakdown for grading that the TAs and I plan to us
 15% Technical Difficulty Implemented
 20% Implementation
 10% Design Process
-10% Manual
+10% Manual 
 
 We will cross-reference against both an initial quartiling judgment averaged among the evaluators, and against a ranking stemming from peer-review
 
@@ -31,15 +31,14 @@ available for the question session.
 The ten minute presentation should include a demo, as well as a discussion of
 technical matters.
 
-Technical matters to cover:
+**Technical matters to cover:**
 * Authorization and Authentication (if applicable)
 * Database technologies used (if applicable)
 * External APIs or libraries used (if applicable)
 * Testing strategies (unit test, integration test, end-to-end tests)
 * Setup needed for app (configuration to get up a running instance.)
 
-Additional Notes:
-
+**Additional Notes:**
 * Presentations will be in a Zoom session to which the entire class is invited.
 * While the entire class is invited to watch the entire session, you are only
   responsible for attending the portion when your team is presenting.
