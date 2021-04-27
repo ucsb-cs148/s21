@@ -50,8 +50,7 @@ New since [lect06](https://ucsb-cs148.github.io/s21/lectures/lect06/):
 
 </div>
 
-# One week to MVP. Please prepare: 
-## Planning your demo (MVP video)
+## Finalizing your demo (MVP video)
 
 * Plan a five minute presentation video
 * Please prepare a 5 minute YouTube video (unlisted or public, your choice)
