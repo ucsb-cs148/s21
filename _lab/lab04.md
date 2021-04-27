@@ -68,7 +68,7 @@ New since [lect06](https://ucsb-cs148.github.io/s21/lectures/lect06/):
   of the time, you should be sharing your screen and showing us your app.
 * At the end, tell us a bit about upcoming features planned for the next iteration.
 
-At next week's Tuesday lecture [lect09](https://ucsb-cs148.github.io/s21/lectures/lect09/) you'll be asked to evaluate other teams' presentation(s), so plan to watch them and be ready to do some very brief writing after each one.
+At next week's Tuesday lecture [lect10](https://ucsb-cs148.github.io/s21/lectures/lect10/) you'll be asked to evaluate other teams' presentation(s), so plan to watch them and be ready to do some very brief writing after each one.
 
 ## Point us to your video
 *  create a file `team/MVP_DEMO.md` containing your MVP video link and any additional information you see fit that you think doesn't belong in the project's README.md  

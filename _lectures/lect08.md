@@ -2,13 +2,14 @@
 desc: "Production pipeline. Feature-branch/pull request workflow"
 lecture_date: 2021-04-27
 num: lect08
-ready: false
+ready: true
 ---
 
 # Announcements
 * h06 is due next Tuesday. Focus on your MVP this week!  
 * CATME.org update
-* MVP due on Feb. 13: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
+* MVP materials due on Fri, 4/30/21: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
+* MVP demonstrations with quick peer eval on Tuesday, 05/04 (lect10)
 
 # Final Presentations 
 
