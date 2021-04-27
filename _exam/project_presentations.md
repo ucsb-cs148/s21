@@ -2,7 +2,7 @@
 layout: exam_info
 num: project_presentations
 ready: false
-desc: "Final Project Presentations, 4 to 7pm"
+desc: "Final Presentations"
 exam_date: 2021-06-10 16:00
 ---
 
