@@ -1,13 +1,13 @@
 ---
-desc: "MVP Demos"
-lecture_date: 2021-05-04
-num: lect10
+desc: "Testing Tools, Different Types of Testing"
+lecture_date: 2021-04-29
+num: lect09
 ready: false
 ---
 
-# Announcements
-* MVP demonstrations with quick peer eval 
+# Materials
+* (Overview of Javascript Testing)[https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870], (PDF)[https://www.cs.ucsb.edu/~holl/cs148/handouts/JSTesting.pdf]
+* (Python Testing Frameworks)[https://blog.testproject.io/2020/10/27/top-python-testing-frameworks/]
 
-# Get Ready
 
-**TBA**
+
