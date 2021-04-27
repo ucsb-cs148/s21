@@ -6,7 +6,7 @@ ready: false
 ---
 
 # Announcements
-* h05 is due next Tuesday. Focus on your MVP this week!  
+* h06 is due next Tuesday. Focus on your MVP this week!  
 * CATME.org update
 * MVP due on Feb. 13: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
 
@@ -34,7 +34,7 @@ We will cross-reference against both an initial quartiling judgment averaged amo
 
 # MVP Deliverables
 
-* Up-to-5min Video of your MVP 
+* Up-to-5min video of your MVP (link to it in `<github>`/team/MVP_DEMO.md) 
 * Up-to-date github repo with complete README.md file that provides complete instructions for deploying your product
 * Github Projects Kanban board should reflect all your activity leading up to the MVP 
 
