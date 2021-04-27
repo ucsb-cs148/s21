@@ -9,7 +9,7 @@ ready: true
 * h06 is due next Tuesday. Focus on your MVP this week!  
 * CATME.org update
 * MVP materials due on Fri, 4/30/21: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
-* MVP demonstrations with quick peer eval on Tuesday, 05/04 (lect10)
+* MVP demonstrations with quick peer eval on Tuesday, 05/04 [lect10](https://ucsb-cs148.github.io/s21/lectures/lect10/)
 
 # Final Presentations 
 
