@@ -10,7 +10,7 @@ i.e. the *smallest* (minimum) possible working software system that actually *de
 
 Deliver value means that it supports the user in:
 * meeting a need, OR
-* acheiving a goal, OR
+* achieving a goal, OR
 * satisfying a desire.
 
 You should have a complete set:
@@ -28,7 +28,7 @@ Here's a more complete version of the process.  We may or may not be able to inc
 * writing up acceptance tests for each of those user stories
 * assigning a subset of those user stories to developers
 * dragging those issues into the In-Progress column of your Kanban board
-* writint unit tests and integration tests, as appropriate for those issues
+* writing unit tests and integration tests, as appropriate for those issues
 * completing the issues
 * doing QA on the code written for the issues, including:
   * checking against acceptance criteria
