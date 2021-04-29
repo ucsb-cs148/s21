@@ -74,6 +74,29 @@ At next week's Tuesday lecture [lect10](https://ucsb-cs148.github.io/s21/lecture
 
 ## Add Installation instructions to your README.md (see [lab03](https://ucsb-cs148.github.io/s21/lab/lab03/)) **by 04/30/21, 23:59 PDT** 
 
+<div class="grade" markdown="1">
+
+**Graded**: ({{page.num}-1}-I) (5) You earn these individual points if you participated in the first retrospective.
+
+**Graded**: (lab03-I) (20) You earn these points for submitting feedback on overall team performance via a CATME.org form survey that you got email invitations and possibly reminders for.
+
+**Graded**: ({{page.num}}-T) (20) You earn these team points based on the attendance/participation in your retrospective; 4 per team member for teams of 5,  5 points per team member for teams of four.
+
+**Graded**: ({{page.num-1}}-T) (20) You earn these team points when the content in `team/retrospectives/RETRO_01.md` is updated per the instructions from [lect06](https://ucsb-cs148.github.io/s21/lectures/lect06/).
+
+New since [lect06](https://ucsb-cs148.github.io/s21/lectures/lect06/): 
+
+**Graded**: ({{page.num-1}}-T) (10) You earn these team points when you recorded the outcome of (one of) your Retro experiments in `team/retrospectives/RETRO_01.md` by the due date of the MVP. 
+
+**Graded**: ({{page.num-1}}-T) (10) When MVP Sprint Planning meeting took place and was documented in your team/sprint0?/ folder (question mark for number of current sprint).
+
+**Graded**: ({{page.num-1}}-I) (5) You earn these individual points if you gave a 'thumbs up' in Slack to at least one article you appreciated in one of the `..._articles` channels.
+
+**Graded**: ({{page.num-1}}-T) (10) You earn these team points if your README.md is updated with complete installation instructions for your MVP and your MVP video link is announced in `team/MVP_DEMO.md`.  
+
+</div>
+
+
 # New Deliverable MVP Tag/Release in your GitHub repo **by 04/30/21, 23:59 PDT**
 * By the end of Friday, 04/30/21, tag and release your MVP project in your github. 
 
