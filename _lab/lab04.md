@@ -92,13 +92,13 @@ At next week's Tuesday lecture [lect10](https://ucsb-cs148.github.io/s21/lecture
 ## MVP Tag/Release in your GitHub repo
 * By the end of Friday, 04/30/21, tag and release your MVP project in your github. 
 
-## To create a tag:
-### Option 1: Web UI
+### To create a tag:
+#### Option 1: Web UI
 * You can use the web UI to create a tag, but it will only create the tag from the current version (most recent commit).
 The tag is automatically created when you create a new release in the git UI.
 * Skip directly to 'Create a Release'
 
-### Option 2: command line instructions. 
+#### Option 2: command line instructions. 
 (Choose this option if you need to create a tag that is earlier than the most recent commit)
 
 `git tag v1.0.0 <commit ID>`
@@ -116,26 +116,26 @@ Verify that everything looks good, then `git push origin <tag_name>`
 
 Your newly created tag should appear in your tags page on the web UI
 
-## To create a release:
+### To create a release:
 
-### Option 1:
+#### Option 1:
 * If you want to create a release from the current, most recent commit
 * On the right hand column, there should be a section labeled 'Releases'. Click on 'create a new release'
 * Put v1.0.0 in the 'Tag Version' box, and fill out the rest of the boxes.
 * Click `Publish Release' and the tag will automatically be created for you
 
-### Option 2:
+#### Option 2:
 * If you want to create a release from an existing tag
 * On the right hand column, there should be a section labeled 'Releases'. Click on 'create a new release'
 * There should be a toggle between Releases and Tabs right above the 'Tag Version' form. Click on Tabs to toggle over.
 * Click on the  menu (with 3 dots) on the far right hand side of the tag, and select 'Create Release'
 * Fill out the form, and `Publish Release`
 
-# New Deliverable: Participate in the MVP review and review other groups' MVPs
+## New Deliverable: Participate in the MVP review and review other groups' MVPs
 
 In class **on Tue, 05/04/21, 15:30**, we will watch the videos all the groups have created, and provide feedback in a simple Google Form. You will get points towards lab04 for submitting these forms. 
 
-# New Deliverable: Testing  
+## New Deliverable: Testing  
 
 Over the next week, the following testing deliverables will give you points towards lab04: 
 
