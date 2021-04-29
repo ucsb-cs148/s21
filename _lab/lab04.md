@@ -69,13 +69,13 @@ New since [lect06](https://ucsb-cs148.github.io/s21/lectures/lect06/):
 
 At next week's Tuesday lecture [lect10](https://ucsb-cs148.github.io/s21/lectures/lect10/) you'll be asked to evaluate other teams' presentation(s), so plan to watch them and be ready to do some very brief writing after each one.
 
-## Point us to your video **by 04/30/21, 23:59 PDT**
-*  create a file `team/MVP_DEMO.md` containing your MVP video link and any additional information you see fit that you think doesn't belong in the project's README.md  
+## Point us to your video 
+*  **by 04/30/21, 23:59 PDT** create a file `team/MVP_DEMO.md` containing your MVP video link and any additional information you see fit that you think doesn't belong in the project's README.md  
 
-## Add Installation instructions to your README.md (see [lab03](https://ucsb-cs148.github.io/s21/lab/lab03/)) **by 04/30/21, 23:59 PDT** 
+## Add Installation instructions to your README.md 
+*  **by 04/30/21, 23:59 PDT** (for details, see [lab03](https://ucsb-cs148.github.io/s21/lab/lab03/)) 
 
-
-# New Deliverables
+# Lab04 New Deliverables
 
 <div class="grade" markdown="1">
 
