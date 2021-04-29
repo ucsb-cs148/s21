@@ -30,11 +30,11 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num-1}}-I) (5) You earn these individual points if you participated in the first retrospective.
+**Graded**: ({{page.num}-1}-I) (5) You earn these individual points if you participated in the first retrospective.
 
-**Graded**: ({{page.num-1}}-I) (20) You earn these points for submitting feedback on overall team performance via a CATME.org form survey that you got email invitations and possibly reminders for.
+**Graded**: ({{page.num}-1}-I) (20) You earn these points for submitting feedback on overall team performance via a CATME.org form survey that you got email invitations and possibly reminders for.
 
-**Graded**: ({{page.num-1}}-T) (20) You earn these team points based on the attendance/participation in your retrospective; 4 per team member for teams of 5,  5 points per team member for teams of four.
+**Graded**: ({{page.num}-1}-T) (20) You earn these team points based on the attendance/participation in your retrospective; 4 per team member for teams of 5,  5 points per team member for teams of four.
 
 **Graded**: ({{page.num-1}}-T) (20) You earn these team points when the content in `team/retrospectives/RETRO_01.md` is updated per the instructions from [lect06](https://ucsb-cs148.github.io/s21/lectures/lect06/).
 
