@@ -90,7 +90,7 @@ At next week's Tuesday lecture [lect10](https://ucsb-cs148.github.io/s21/lecture
 </div>
 
 ## MVP Tag/Release in your GitHub repo
-* By the end of Friday, 04/30/21, tag and release your MVP project in your github. 
+By the end of Friday, 04/30/21, tag and release your MVP project in your github. 
 
 ### To create a tag:
 #### Option 1: Web UI
