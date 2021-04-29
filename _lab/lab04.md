@@ -28,7 +28,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # Finalize MVP Materials ([lab03](https://ucsb-cs148.github.io/s21/lectures/lect06/) requirements) 
 
-<div class="grade" markdown="1">
+<div class="grade" markdown="1" background-color: #eee>
 
 **Graded**: (lab03-I) (5) You earn these individual points if you participated in the first retrospective.
 
@@ -79,13 +79,13 @@ At next week's Tuesday lecture [lect10](https://ucsb-cs148.github.io/s21/lecture
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-T) (25) You earn these team points if your team has a github tagged release of your MVP timestamped **before 04/30/21, 23:59:59 PDT**
+**Graded**: ({{page.num}}-T) (25 pts) You earn these team points if your team has a github tagged release of your MVP timestamped **before 04/30/21, 23:59:59 PDT**
 
-**Graded**: ({{page.num}}-I) (25) You earn these individual points if you participate in the MVP review during [lec10](https://ucsb-cs148.github.io/s21/lectures/lect10/) and submit an evaluation form to briefly review all other groups' MVPs.
+**Graded**: ({{page.num}}-I) (25 pts) You earn these individual points if you participate in the MVP review during [lec10](https://ucsb-cs148.github.io/s21/lectures/lect10/) and submit an evaluation form to briefly review all other groups' MVPs.
 
-**Graded**: ({{page.num}}-I) (25) You earn these team points in the MVP review during [lec10](https://ucsb-cs148.github.io/s21/lectures/lect10/) if at least one member of your team asks a question after the video of one other team (the pairing will be announced before the class lecture) 
+**Graded**: ({{page.num}}-I) (25 pts) You earn these team points in the MVP review during [lec10](https://ucsb-cs148.github.io/s21/lectures/lect10/) if at least one member of your team asks a question after the video of one other team (the pairing will be announced before the class lecture) 
 
-**Graded**: ({{page.num}}-T) (25) You earn these team points for implementing and documenting at least one unit test in your code base by next week **05/07/21, 14:00:00 PDT**.
+**Graded**: ({{page.num}}-T) (25 pts) You earn these team points for implementing and documenting at least one unit test in your code base by next week **05/07/21, 14:00:00 PDT**.
 
 </div>
 
