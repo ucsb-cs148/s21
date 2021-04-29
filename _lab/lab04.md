@@ -28,7 +28,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # Finalize MVP Materials ([lab03](https://ucsb-cs148.github.io/s21/lectures/lect06/) requirements) 
 
-<div class="grade" markdown="1" background-color: #eee>
+<div markdown="1">
 
 **Graded**: (lab03-I) (5) You earn these individual points if you participated in the first retrospective.
 
