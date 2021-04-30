@@ -1,8 +1,8 @@
 ---
 layout: lab
 num: lab04
-ready: false
-desc: "Finalize MVP materials, Testing"
+ready: true
+desc: "MVP Release, MVP Review, Testing"
 assigned: 2021-04-30 13:00
 due: 2021-05-07 14:00
 github_org: "ucsb-cs148-s21"
@@ -93,6 +93,7 @@ At next week's Tuesday lecture [lect10](https://ucsb-cs148.github.io/s21/lecture
 
 ## MVP Tag/Release in your GitHub repo
 By the end of Friday, 04/30/21, tag and release your MVP project in your github. 
+[This brief article](https://medium.com/@jameshamann/a-brief-guide-to-semantic-versioning-c6055d87c90e) gives some suggestions on versioning numbering.  
 
 ### To create a tag:
 #### Option 1: Web UI
