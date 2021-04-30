@@ -85,7 +85,7 @@ At next week's Tuesday lecture [lect10](https://ucsb-cs148.github.io/s21/lecture
 
 **Graded**: ({{page.num}}-I) (25 pts) You earn these team points in the MVP review during [lec10](https://ucsb-cs148.github.io/s21/lectures/lect10/) on **Tue, 05/04/2021** if at least one member of your team asks a question after the video of one other team (the pairing will be announced before the class lecture) 
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points for implementing and documenting at least one unit test in your code base by next week **05/07/21, 14:00:00 PDT**.
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points for implementing and documenting at least one unit test in your code base by next week **05/07/21, 14:00 PDT**.
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points for ensuring that each team member was assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week **ending on 05/07/21, 14:00:00 PDT**.
 
