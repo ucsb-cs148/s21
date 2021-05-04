@@ -40,12 +40,12 @@ T5 - we-connect
 
 * Everyone will **take notes and submit a quick peer-feedback form** on each presentation while watching the presentations during class. 
     * Please fill in this [review form](https://forms.gle/qYhNsWE88mXLt3VNA) during the video presentations. Submission of this form will count towards your lab04 points. If you cannot attend today's lecture, you can watch the recorded lecture and fill the form in before the end of [lab04](https://ucsb-cs148.github.io/s21/lab/lab04/). 
-<br />
-   
+
+<br />   
 * After each video presentation, a representative from *the next group up* (or the first group, T8, in case of the last presentation) will **ask a question** to the team whose video was just shown. That question should be typed in the Zoom chat (so that we capture it) and read out by the representative for the team asking the question. 
     * The question can be of any type, e.g. a follow-up on something that was not entirely clear, a low-level implementation question, a question about possible future functionality, or a high-level question about the product landscape connected to the project. 
-<br />
 
+<br />
 * After the peer team asked their question, there will be an opportunity for **anyone to ask a question** to the team whose video was shown, but if there are many questions, we may have to cut it short. We ask that any questions that are asked be captured in the Zoom chat! We also may chime in with questions and comments from the teaching team. 
 
 * After all 8 project videos have been shown, everyone will be asked to **vote for their top-three favorite MVPs**. You will receive the link to that review form in the Zoom chat.  We will announce the audience choice award winner for best MVP on Thurday in class (which gives you bragging rights, but no influence on your grades. Grades will solely be based on final product presentations and quality).  
