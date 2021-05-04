@@ -7,17 +7,18 @@ ready: true
 
 # Announcements
 * Today: 
- * MVP video demonstrations with peer eval 
- * Voting for top three favorite MVPs
- * Celebration of our progress
+  * MVP video demonstrations with peer eval 
+  * Voting for top three favorite MVPs
+  * Celebration of our progress
 
 * Lab04:
-    * You get points toward this week's Lab (lab04) from today's activities, and for the rest of the lab04 period you will work on continued functionality and doing some unit testing towards test-based design! 
+  * You get points toward this week's Lab (lab04) from today's activities, and for the rest of the lab04 period you will work on continued functionality and doing some unit testing towards test-based design! 
 
 * Upcoming: 
-    * Sprint Review and Planning Meeting 
-    * Second Retrospective 
-    (the MVP release is a great opportunity to review the next steps)
+  * Sprint Review and Planning Meeting 
+  * Second Retrospective 
+  
+  (the MVP release is a great opportunity to review the next steps)
 
 
 # Procedure for Today's MVP Review
@@ -34,15 +35,18 @@ T6 - ucsb-poll
 T2 - food-bank
 T5 - we-connect
 ``` 
+ 
 
-Everyone will **take notes and submit a quick peer-feedback form** on each presentation while watching the presentations during class. 
-* [review form](https://forms.gle/qYhNsWE88mXLt3VNA) 
+* Everyone will **take notes and submit a quick peer-feedback form** on each presentation while watching the presentations during class. 
+ * [review form](https://forms.gle/qYhNsWE88mXLt3VNA) 
 
-After each video presentation, a representative from *the next group up* (or the first group, T8, in case of the last presentation) will ask a question to the team whose video was just shown. That question should be typed in the Zoom chat (so that we capture it) and read out by the representattive for the team asking the question. The question can be of any type, e.g. a follow-up on something that was not entirely clear, a low-level implementation question, a question about possible future functionality, or a high-level question about the product landscape connected to the project. 
+* After each video presentation, a representative from *the next group up* (or the first group, T8, in case of the last presentation) will **ask a question** to the team whose video was just shown. That question should be typed in the Zoom chat (so that we capture it) and read out by the representative for the team asking the question. 
 
-After the peer team asked their question, there will be an opportunity for anyone to ask a question to the team whose video was shown, but if there are many questions, we may have to cut it short. We ask that any questions that are asked be captured in the Zoom chat! We also may chime in with questions and comments from the teaching team. 
+The question can be of any type, e.g. a follow-up on something that was not entirely clear, a low-level implementation question, a question about possible future functionality, or a high-level question about the product landscape connected to the project. 
 
-After all 8 project videos have been shown, everyone will be asked to vote for their top-three favorite MVPs. We will announce the audience choice award winner for best MVP on Thurday in class (which gives you bragging rights, but no influence on your grades. Grades will solely be based on final product presentations and quality).  
+* After the peer team asked their question, there will be an opportunity for **anyone to ask a question** to the team whose video was shown, but if there are many questions, we may have to cut it short. We ask that any questions that are asked be captured in the Zoom chat! We also may chime in with questions and comments from the teaching team. 
+
+* After all 8 project videos have been shown, everyone will be asked to **vote for their top-three favorite MVPs**. We will announce the audience choice award winner for best MVP on Thurday in class (which gives you bragging rights, but no influence on your grades. Grades will solely be based on final product presentations and quality).  
 
 # Celebrate
 
