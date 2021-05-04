@@ -39,7 +39,7 @@ T5 - we-connect
 &nbsp;
 
 * Everyone will **take notes and submit a quick peer-feedback form** on each presentation while watching the presentations during class. 
-    * [review form](https://forms.gle/qYhNsWE88mXLt3VNA) 
+    * Please fill in this [review form](https://forms.gle/qYhNsWE88mXLt3VNA) during the video presentations. Submission of this form will count towards your lab04 points. If you cannot attend today's lecture, you can watch the recorded lecture and fill the form in before the end of [lab04](https://ucsb-cs148.github.io/s21/lab/lab04/). 
 &nbsp; 
 
 * After each video presentation, a representative from *the next group up* (or the first group, T8, in case of the last presentation) will **ask a question** to the team whose video was just shown. That question should be typed in the Zoom chat (so that we capture it) and read out by the representative for the team asking the question. 
