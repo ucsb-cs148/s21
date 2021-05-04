@@ -39,10 +39,14 @@ T5 - we-connect
 
 * Everyone will **take notes and submit a quick peer-feedback form** on each presentation while watching the presentations during class. 
     * [review form](https://forms.gle/qYhNsWE88mXLt3VNA) 
-
+ 
+    
+    
 * After each video presentation, a representative from *the next group up* (or the first group, T8, in case of the last presentation) will **ask a question** to the team whose video was just shown. That question should be typed in the Zoom chat (so that we capture it) and read out by the representative for the team asking the question. 
-
     * The question can be of any type, e.g. a follow-up on something that was not entirely clear, a low-level implementation question, a question about possible future functionality, or a high-level question about the product landscape connected to the project. 
+
+
+         
 
 * After the peer team asked their question, there will be an opportunity for **anyone to ask a question** to the team whose video was shown, but if there are many questions, we may have to cut it short. We ask that any questions that are asked be captured in the Zoom chat! We also may chime in with questions and comments from the teaching team. 
 
