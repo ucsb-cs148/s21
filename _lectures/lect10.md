@@ -46,7 +46,7 @@ T5 - we-connect
 
 * After the peer team asked their question, there will be an opportunity for **anyone to ask a question** to the team whose video was shown, but if there are many questions, we may have to cut it short. We ask that any questions that are asked be captured in the Zoom chat! We also may chime in with questions and comments from the teaching team. 
 
-* After all 8 project videos have been shown, everyone will be asked to **vote for their top-three favorite MVPs**. We will announce the audience choice award winner for best MVP on Thurday in class (which gives you bragging rights, but no influence on your grades. Grades will solely be based on final product presentations and quality).  
+* After all 8 project videos have been shown, everyone will be asked to **vote for their top-three favorite MVPs**. You will receive the link to that review form in the Zoom chat.  We will announce the audience choice award winner for best MVP on Thurday in class (which gives you bragging rights, but no influence on your grades. Grades will solely be based on final product presentations and quality).  
 
 # Celebrate
 
