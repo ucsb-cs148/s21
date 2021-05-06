@@ -2,7 +2,7 @@
 desc: "Testing Tools, Different Types of Testing"
 lecture_date: 2021-05-06
 num: lect11
-ready: false
+ready: true
 ---
 
 # Announcements
