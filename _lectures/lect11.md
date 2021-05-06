@@ -16,14 +16,14 @@ ready: true
 # More Info on Testing
 * There are many types of testing that one can perform on a software project. The article [topics/testing](https://ucsb-cs48.github.io/topics/testing/) tries to provide a more comprehensive look at this topic.
 Related Topics: 
-[Testing: Acceptance Testing](https://ucsb-cs148.github.io/topics/testing_acceptance/)—Criteria for being 'done' with an issue
-[Testing: Agile Testing (Crispin and Gregory)](https://ucsb-cs148.github.io/topics/testing_agile_testing_crispin_and_gregory/)—Material from the book by Lisa Crispin and Janet Gregory, Agile Testing: A Practical Guide for Testers and Agile Teams
-[Testing: Unit Testing with Jest](https://ucsb-cs148.github.io/topics/testing_jest/)—Setting up Jest for Next.JS projects
-[Testing: Automation—](https://ucsb-cs148.github.io/topics/testing_automation/)How to make testing an automatic part of your process
-[Testing: End to End Testing](https://ucsb-cs148.github.io/topics/testing_end_to_end/)—Intro to End to End Testing, and Framework Specific Examples
-[Testing: Jacoco Reports](https://ucsb-cs148.github.io/topics/testing_jacoco_reports/)—How to interpret the reports (red, yellow, green)
-[Testing: Jacoco via Maven](https://ucsb-cs148.github.io/topics/testing_jacoco_via_maven/)—Setting up Jacoco test coverage, using Maven
-[Testing: Mocking](https://ucsb-cs148.github.io/topics/testing_mocking/)—Intro to Mocking in Tests, and Framework-specific Examples
+* [Testing: Acceptance Testing](https://ucsb-cs148.github.io/topics/testing_acceptance/)—Criteria for being 'done' with an issue
+* [Testing: Agile Testing (Crispin and Gregory)](https://ucsb-cs148.github.io/topics/testing_agile_testing_crispin_and_gregory/)—Material from the book by Lisa Crispin and Janet Gregory, Agile Testing: A Practical Guide for Testers and Agile Teams
+* [Testing: Unit Testing with Jest](https://ucsb-cs148.github.io/topics/testing_jest/)—Setting up Jest for Next.JS projects
+* [Testing: Automation—](https://ucsb-cs148.github.io/topics/testing_automation/)How to make testing an automatic part of your process
+* [Testing: End to End Testing](https://ucsb-cs148.github.io/topics/testing_end_to_end/)—Intro to End to End Testing, and Framework Specific Examples
+* [Testing: Jacoco Reports](https://ucsb-cs148.github.io/topics/testing_jacoco_reports/)—How to interpret the reports (red, yellow, green)
+* [Testing: Jacoco via Maven](https://ucsb-cs148.github.io/topics/testing_jacoco_via_maven/)—Setting up Jacoco test coverage, using Maven
+* [Testing: Mocking](https://ucsb-cs148.github.io/topics/testing_mocking/)—Intro to Mocking in Tests, and Framework-specific Examples
 
 
 # Today: Work in Breakout Groups
