@@ -97,7 +97,7 @@ Again, every team member should be assigned (and complete at least one) new issu
 
 So, while focus should be on your product growing/improving, we want you to experiment more with Test-Driven-Development (TDD). This could be a great week to fully embrace TDD, and we think you would get many benefits from it in the long term. It is, however, an investment in the short term, so if you don't think that you are ready to completely switch over to TDD, then at the very least you'lll have to select a tool for component testing (a type of integration or end-to-end testing) and implement **at least one** component test **or** other integration **or** end-to-end test in your source code. Use of a Behavior-Driven Development (BDD) framework would also check this box.  
 
-Teams working with React could use the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) or [Enzyme](https://enzymejs.github.io/enzyme/). Python backends could for example be tested with [TestProject](https://testproject.io/) or the BDD frameworks [Behave](https://behave.readthedocs.io/) or [Lettuce](http://lettuce.it/).
+Teams working with React could use the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) or [Enzyme](https://enzymejs.github.io/enzyme/) or [Storybook](https://ucsb-cs148.github.io/jstopics/react_storybook/). Python backends could for example be tested with [TestProject](https://testproject.io/) or the BDD frameworks [Behave](https://behave.readthedocs.io/) or [Lettuce](http://lettuce.it/).
 
 <div class="grade" markdown="1">
 
