@@ -30,9 +30,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-I) (10 pts) You earn these individual points if you participated in this retrospective.
-
-**Graded**: ({{page.num}}-I) (10 pts) You earn these points for submitting feedback on overall team performance via a second CATME.org form survey that you got email invitations for.
+**Graded**: ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a second CATME.org form survey that you got email invitations for.
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your retrospective; 4 per team member for teams of five, 5 points per team member for teams of four.
 
@@ -94,7 +92,22 @@ You already know the goal and procedure for Retrospectives from your RETRO_01. T
 
 # Grading for new Development / Testing 
 
-**TBA**
+Over the next week, please focus predominantly on **new/improved functionality/robustness/user experience** for your product, using your momentum and ideas from the MVP effort and discussion. 
+
+Again, every team member should be assigned (and complete at least one) new issue towards this goal. Make sure that your issues have clear acceptance criteria in Github Projects and that you have a process for completing and assigning issues (e.g. feature branches or your own "Continuous Delivery" rules). It should be possible at any point in time to deploy your product with new improvements over time! 
+
+So, while focus should be on your product growing/improving, we want you to experiment more with Test-Driven-Development (TDD). This could be a great week to fully embrace TDD, and we think you would get many benefits from it in the long term. It is, however, an investment in the short term, so if you don't think that you are ready to completely switch over to TDD, then at the very least you'lll have to select a tool for component testing (a type of integration or end-to-end testing) and implement **at least one** component test **or** other integration **or** end-to-end test in your source code. Use of a Behavior-Driven Development framework would also check this box.  
+
+Teams working with React could use the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) or [Enzyme](https://enzymejs.github.io/enzyme/). 
+
+<div class="grade" markdown="1">
+
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week **ending on 05/14/21, 14:00:00 PDT**.
+
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points if your team integrated a higher-level (not just unit tests) testing framework with your project
+
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points if your team implemented and demonstrated successful execution of **at least one** component test **or** other integration **or** end-to-end test (e.g. BDD) in your project. 
 
 
+</div>
  
