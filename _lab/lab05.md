@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab05
-ready: false
+ready: true
 desc: "Second Retrospective, Product Improvement, Additional Testing"
 assigned: 2021-05-07 13:00
 due: 2021-05-14 14:00
