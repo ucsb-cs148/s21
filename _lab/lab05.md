@@ -38,9 +38,8 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 </div>
 
-# Procedure for Second Retro
 
-# Today: Retrospective
+# Today: Second Retrospective
 
 You already know the goal and procedure for Retrospectives from your RETRO_01. This Retrospective allows you to discuss things that 
 
