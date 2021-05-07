@@ -15,7 +15,7 @@ ready: true
 
 
 # More Info on Testing
-* There are many types of testing that one can perform on a software project. The article [topics/testing](https://ucsb-cs48.github.io/topics/testing/) tries to provide a more comprehensive look at this topic.
+* There are many types of testing that one can perform on a software project. The article [topics/testing](https://ucsb-cs148.github.io/topics/testing/) tries to provide a more comprehensive look at this topic.
 Related Topics: 
 * [Testing: Acceptance Testing](https://ucsb-cs148.github.io/topics/testing_acceptance/)—Criteria for being 'done' with an issue
 * [Testing: Agile Testing (Crispin and Gregory)](https://ucsb-cs148.github.io/topics/testing_agile_testing_crispin_and_gregory/)—Material from the book by Lisa Crispin and Janet Gregory, Agile Testing: A Practical Guide for Testers and Agile Teams
