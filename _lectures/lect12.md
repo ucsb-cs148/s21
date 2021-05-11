@@ -12,13 +12,14 @@ ready: true
 
 
 # More Info on Testing
-* Slides for high-level overview and motivation: [Testing for the Skeptical Developer](https://www.cs.ucsb.edu/~holl/CS148/handouts/slides_2021-testingfortheskepticaldeveloper.pdf)
+* Slides for high-level overview and motivation: [Testing for the Skeptical Developer](https://www.cs.ucsb.edu/~holl/CS148/handouts/Slides_2021-testingfortheskepticaldeveloper.pdf)
 * Possible Testing Libraries: 
     * [Jest](https://ucsb-cs148.github.io/topics/testing_jest/)
     * [Jasmine](https://jasmine.github.io)
     * [Component Testing with Cypress](https://ucsb-cs148.github.io/jstopics/testing_cypress/)
     * [Component Testing with Storybook](https://storybook.js.org)
     * [Mocha](https://github.com/mochajs/mocha) (and [Chai](https://github.com/chaijs/chai)and [Sinon](https://sinonjs.org))
+    * BDD Acceptance Testing with [cucumber.js](https://github.com/cucumber/cucumber-js), [blog example](https://www.codementor.io/@jeremyrajan/acceptance-testing-javascript-cucumber-webdriverio-du1087f5i)
 
 * Remember the overview articles: 
     * [Overview of Javascript Testing](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870), [PDF version](https://www.cs.ucsb.edu/~holl/CS148/handouts/JSTesting.pdf) 
