@@ -7,7 +7,7 @@ ready: true
 
 # Announcements
 * No current homework - we focus mainly on projects from now on
-* CATME.org now fixed as well as was possible. Please log on and check if you see peer review data and comments. Please be kind and patient with each other! Feedback can be helpful even if it rubs you the wrong way at first. Give it your honest consideration. 
+* Second Peer Evaluation now live at CATME.org. Fill out before Friday, 2pm to receive Lab05 credit!  
 * Testing: Implement at least one higher-level (Integration, Component, or BDD) test with a testing library of your choice this week!
 
 
