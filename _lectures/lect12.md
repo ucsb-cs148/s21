@@ -18,7 +18,7 @@ ready: true
     * [Jasmine](https://jasmine.github.io)
     * [Component Testing with Cypress](https://ucsb-cs148.github.io/jstopics/testing_cypress/)
     * [Component Testing with Storybook](https://storybook.js.org)
-    * [Mocha](https://github.com/mochajs/mocha) (and [Chai](https://github.com/chaijs/chai)and [Sinon](https://sinonjs.org))
+    * [Mocha](https://github.com/mochajs/mocha) (and [Chai](https://github.com/chaijs/chai) and [Sinon](https://sinonjs.org))
     * BDD Acceptance Testing with [cucumber.js](https://github.com/cucumber/cucumber-js), [blog example](https://www.codementor.io/@jeremyrajan/acceptance-testing-javascript-cucumber-webdriverio-du1087f5i)
 
 * Remember the overview articles: 
