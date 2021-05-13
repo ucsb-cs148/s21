@@ -29,7 +29,7 @@ ready: true
 * Diagramming Tools:  Powerpoint or Visio, Google Slides, LibreOffice (Impress, Draw), [Gliffy](https://www.gliffy.com/)
 
 # UI Design 
-* Hierarchy of Needs
+* [Hierarchy of Needs](https://www.cs.ucsb.edu/~holl/CS148/handouts/HierarchyOfNeeds.pdf)
 
 # Today: Work in Breakout Groups
 * Standup
