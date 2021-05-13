@@ -26,7 +26,7 @@ ready: true
 
 # Planning and Documenting your Design
 * System Architecture High-Level Overview Diagrams. See, e.g. Requirement Documents in [UCSB Capstone projects](https://capstone.cs.ucsb.edu/past20.html)   
-* Diagramming Tools:  Powerpoint or Visio, Google Slides, LibreOffice (Impress, Draw), [Gliffy](https://www.gliffy.com/)
+* Diagramming Tools:  Powerpoint or Visio, Google Slides, LibreOffice (Impress, Draw), [Gliffy](https://www.gliffy.com/), [graphviz](https://graphviz.org)
 
 # UI Design 
 * [Hierarchy of Needs](https://www.cs.ucsb.edu/~holl/CS148/handouts/HierarchyOfNeeds.pdf)
