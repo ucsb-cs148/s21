@@ -8,7 +8,7 @@ exam_date: 2021-06-10 16:00
 
 # Final Presentations 
 
-**4pm to 7pm, Wednesday June 10th** (original finals slot)
+**4pm to 7pm, Thursday June 10th** (original finals slot)
 
 Here is the point percentage breakdown for grading that the TAs and I plan to use for the “Final Product” 35% of the course grade.
 
