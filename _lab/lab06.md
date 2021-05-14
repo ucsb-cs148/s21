@@ -27,7 +27,9 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 <div class="grade" markdown="1">
 **Graded**: ({{page.num}}-T) (15 pts) You earn these team points if you have logged the result of your Retro 2 Experiment
+
 **Graded**: ({{page.num}}-T) (15 pts) You earn these team points if you have planned future team leadership roles and logged them in your GitHub ./team/LEADERSHIP.md as per instructions below 
+
 **Graded**: ({{page.num}}-T) (40 pts) You earn these team points if you started a design document that you link to in your Github ./docs/DESIGN.md and that contains at the very least an overview system architecture diagram and associated explanation.  
 </div>
 
