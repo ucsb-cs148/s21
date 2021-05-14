@@ -73,7 +73,7 @@ Also, whoever is chosen below as the "Design Document Coordinator" will be respo
 
 **Roles to assign**
 
-* **Product Owner**.  Together with Scrum Master, leads the Sprint Planning meeting later this week.
+* **Product Owner**.  Together with Scrum Master, leads the Sprint Planning meeting(s) to come
       Responsible for making sure that the team comes up with a set of **user stories**
       for the "final" product that your team will deliver, and marking those stories with a label "final" (just
       like the label `MVP` that you used previously.  
