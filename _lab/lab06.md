@@ -84,7 +84,7 @@ Also, whoever is chosen below as the "Design Document Coordinator" will be respo
       Also responsible for holding the team accountable for keeping the issues moving through the Kanban board.
 * **Testing/QA Coordinator**. 
       Ultimately, responsible for making sure that user stories and issues have acceptance criteria, and that
-      these are met before pull requests are accepted into master. 
+      these are met before pull requests are accepted into master. If you are doing any sort of TDD or BDD, this person will also mainly coordinate that effort. 
 * **Retro 3 leader**.  This person will lead the third retro during lab08 (06/03 or 06/04) 
 * **UX Coordinator**.  Responsible for the look and feel of the product, and the way that the user interacts with the
       product. By next week, will have a set of pointers and recommendations for the UI/UX of your products...
