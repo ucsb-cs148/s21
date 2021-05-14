@@ -65,10 +65,11 @@ Several people will clearly be assigned to more than one role. That's fine, but 
     * The retro leaders for each of the three retros in the quarter should be different people.
     * No one should take on three roles unless/until each team member has already taken on two.
 
+&nbsp;
 If you have a situation where it is impossible to satisfy all of these rules, check with your mentor;
 they are permitted to authorize exceptions where there is a legitimate need to do so.
 
-Also, whoever is chosen below as the "Documentation Coordinator" will be responsible for copying these roles from yoiur discussion into ./team/LEADERSHIP.md.
+Also, whoever is chosen below as the "Design Document Coordinator" will be responsible for copying these roles from your discussion into ./team/LEADERSHIP.md.
 
 **Roles to assign**
 
