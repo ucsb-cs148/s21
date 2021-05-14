@@ -4,7 +4,7 @@ num: lab06-ops
 ready: false
 desc: "Deployment Instructions"
 assigned: 2021-05-14 14:00
-due: 2021-05-28 14:00
+due: 2021-05-27 20:00
 github_org: "ucsb-cs48-s20"
 ---
 
@@ -25,6 +25,11 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 </div>
 
+<div class="grade" markdown="1">
+
+**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if your GitHub is updated with complete installation/deployment instructions in ./docs/DEPLOY.md, linked to from your README.md  
+
+</div>
 
 # Deployment Instructions / Video
 This part of the lab has a two-week performance period. 
