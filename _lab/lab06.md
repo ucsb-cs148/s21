@@ -77,10 +77,10 @@ Also, whoever is chosen below as the "Design Document Coordinator" will be respo
       Responsible for making sure that the team comes up with a set of **user stories**
       for the "final" product that your team will deliver, and marking those stories with a label "final" (just
       like the label `MVP` that you used previously).  
-* **Scrum Master**.   Together with Product Owner, leads the sprint planing meeting later this week.
+* **Scrum Master**.   Together with Product Owner, leads the sprint planing meeting(s) still to come.
       Responsible for making sure that the team comes up with a set of **issues**
       for the "final" product that your team will deliver, each tied to one of the user stories.
-      and marking those stories with a label "final" (just like the label `MVP` that you used previously.
+      and marking those stories with a label "final" (just like the label `MVP` that you used previously).
       Also responsible for holding the team accountable for keeping the issues moving through the Kanban board.
 * **Testing/QA Coordinator**. 
       Ultimately, responsible for making sure that user stories and issues have acceptance criteria, and that
