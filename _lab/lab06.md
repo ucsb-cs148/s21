@@ -84,17 +84,16 @@ Also, whoever is chosen below as the "Documentation Coordinator" will be respons
 * **Testing/QA Coordinator**. 
       Ultimately, responsible for making sure that user stories and issues have acceptance criteria, and that
       these are met before pull requests are accepted into master. 
-* **Retro 3 leader**  This person will lead the third retro during lab08 (06/03 or 06/04) 
+* **Retro 3 leader**.  This person will lead the third retro during lab08 (06/03 or 06/04) 
 * **UX Coordinator**.  Responsible for the look and feel of the product, and the way that the user interacts with the
-      product.   By next week, will have a set of recommendations for the final UI/UX of the product in support
-      of the user stories that emerge from the Sprint Plannig Meeting
-* **Design Document Coordinator**  This person is responsible for the design process documentation started in this lab, chiefly the document pointed to by ./docs/DESIGN.md.
+      product. By next week, will have a set of pointers and recommendations for the UI/UX of your products...
+* **Design Document Coordinator**.  This person is responsible for the design process documentation started in this lab, chiefly the document pointed to by ./docs/DESIGN.md.
       By next week (lab07), they should ensure that there is a first version, and will be responsible for updating it throughout the rest of the quarter.
-* **Deployment Document Coordinator**  This person is responsible for the deployment documentation refactored in this lab, chiefly the document pointed to by ./docs/DEPLOY.md.
+* **Deployment Document Coordinator**.  This person is responsible for the deployment documentation refactored in this lab, chiefly the document pointed to by ./docs/DEPLOY.md.
       By next week (lab07), they should ensure that there is a first version, and will be responsible for updating it throughout the rest of the quarter.
-* **User Manual Coordinator**  This person is responsible for the user manual part of the documentation. More detail will be given in lab07, and the person in charge will be responsible for updating it
+* **User Manual Coordinator**.  This person is responsible for the user manual part of the documentation. More detail will be given in lab07, and the person in charge will be responsible for updating it
       throughout the rest of the quarter.
-* **Final presentation leader (week 9/10)**  This person will be in charge coordinating the final class presentation video during week 9/10. The presentation itself will likely have multiple presenters, but the leader ensures everyone is prepared and everything goes smoothly with demos and setup.
+* **Final presentation leader (week 9/10)**.  This person will be in charge coordinating the final class presentation video during week 9/10. The presentation itself will likely have multiple presenters, but the leader ensures everyone is prepared and everything goes smoothly with demos and setup.
   
 
 
