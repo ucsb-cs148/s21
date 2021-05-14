@@ -31,7 +31,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 </div>
 
-# Deployment Instructions / Video
+# Deployment Instructions
 This part of the lab has a two-week performance period. 
 
 One of the important aspects of Software Development that often gets overlooked in the academic curriculum is "operations".   
