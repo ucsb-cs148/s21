@@ -108,12 +108,14 @@ You can use any diagramming tool of your choice. Please post in Slack if you lik
    * Google Slides
    * LibreOffice (Impress, Draw)
    * Microsoft Powerpoint or Visio (if you have access to MS Office) 
+
 Or some web-based solutions: 
    * [diagrams.net](https://www.diagrams.net)
    * [Gliffy](https://www.gliffy.com/)
    * [graphviz](https://graphviz.org)
+
 Or on Mac/IOS:     
-* [Flowchart Designer 3](https://apps.apple.com/app/flowchart-designer-3/id1512570906) 
+   * [Flowchart Designer 3](https://apps.apple.com/app/flowchart-designer-3/id1512570906) 
 
 # Part II: Deployment Manual
 
