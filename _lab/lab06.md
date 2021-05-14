@@ -5,7 +5,7 @@ ready: true
 desc: "Retro2 Outcome Logging / Review and Plan Leadership Roles / Start Design Document "
 assigned: 2021-05-14 13:01
 due: 2021-05-21 14:00
-github_org: "ucsb-cs48-s20"
+github_org: "ucsb-cs148-s21"
 ---
 
 <style>
