@@ -95,13 +95,13 @@ There should be a link to `./docs/DEPLOY.md` from your main `README.md` file of 
 So if it's optional, why am I even leaving this step in the lab?
 </p>
 <p class="card-text">
-I've left this in, because the next time I teach the course, I definitely want to make it required; and because if you
+I've left this in, because if you
 read though it, I think you'll see how making this as a video would kind of force you to make your written instructions
 more clear and foolproof.   You'd definitely find any problems with the written instructions as you go through 
 the steps to make the video.
 </p>
 <p class="card-text">
-(For teams that DO do it, however, it will be taken into account in your final team evaluation as a plus.   Don't ask me how much: I don't have those kinds of details worked out yet.  I'm still struggling just to stay one step ahead of all of the changes we've made in the course to adapt it to this format.)
+(For teams that DO do it, however, it will be taken into account in your final team evaluation as a plus.   
 </p>
 </div>
 </div>
