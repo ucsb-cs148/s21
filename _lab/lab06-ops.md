@@ -1,6 +1,6 @@
 ---
 layout: lab
-num: lab06-ops
+num: lab06-2-ops
 ready: false
 desc: "Deployment Instructions"
 assigned: 2021-05-14 14:00
