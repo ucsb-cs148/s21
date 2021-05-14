@@ -26,9 +26,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 <div class="grade" markdown="1">
-
-**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if your GitHub is updated with complete installation/deployment instructions in ./docs/DEPLOY.md, linked to from your README.md  
-
+**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if your GitHub is updated with complete installation / deployment instructions in ./docs/DEPLOY.md, linked to from your README.md  
 </div>
 
 # Deployment Instructions
@@ -56,7 +54,7 @@ Someone on your team should prepare a set of instructions with all of the steps 
 
 While this is a team grade, it is likely that you'll assign one or more people from your team to focus on this, while other members of your team are working on fixing bugs or adding new features.  
 
-So, please make `Deploy Instructions (lab06-ops)` an "issue" and track it on your Kanban board along with your other issues.  Ideally, whoever is working on these instructions is not *also* juggling working on a coding issue at the same time, so this is the only issue to which they are assigned while they are working on it.
+So, please make `Deploy Instructions (lab06-ops)` a new story with at least one associated "issue" and track it on your Kanban board along with your other issues.  Ideally, whoever is working on these instructions is not *also* juggling working on a coding issue at the same time, so this is the only issue to which they are assigned while they are working on it.
 
 ### Share instructions, NOT credentials
 
@@ -108,7 +106,7 @@ the steps to make the video.
 Working from your written deployment instructions, someone on your team should make a video where you follow the written deployment instructions yourselves,
 step by step, and show what the deployment looks like.   
 
-For guidance on making the video, you can use the instructions [here](https://youtu.be/k0Je8ASh4jo) for advice on how to do this using Zoom and YouTube; you may also use another tool if you have access to one and prefer it.
+For guidance on making the video, you can again use the instructions [here](https://youtu.be/k0Je8ASh4jo) for advice on how to do this using Zoom and YouTube; you may also use another tool if you have access to one and prefer it.
 
 If in the course of making that video, you end up showing
 values of secrets (e.g. database passwords, OAuth tokens, etc.) you should go back and *invalidate* those tokens before
@@ -125,4 +123,4 @@ is finished.  But, this is a recommendation, not a requirement.
     
 # Grading:
 
-Team Grade: 100 points for successfully completing the instructions.
+Team Grade: 30 points for successfully completing the instructions.
