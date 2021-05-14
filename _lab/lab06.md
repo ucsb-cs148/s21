@@ -1,6 +1,6 @@
 ---
 layout: lab
-num: lab06-1
+num: lab06-part1
 ready: true
 desc: "Retro2 Outcome Logging / Review and Plan Leadership Roles / Start Design Document "
 assigned: 2021-05-14 13:01
