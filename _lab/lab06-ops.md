@@ -3,7 +3,7 @@ layout: lab
 num: lab06-2-ops
 ready: true
 desc: "Deployment Instructions"
-assigned: 2021-05-14 14:00
+assigned: 2021-05-14 13:01
 due: 2021-05-27 20:00
 github_org: "ucsb-cs48-s20"
 ---
