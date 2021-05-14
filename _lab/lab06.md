@@ -26,7 +26,11 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 <div class="grade" markdown="1">
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points if you have logged the result of 
+**Graded**: ({{page.num}}-T) (15 pts) You earn these team points if you have logged the result of your Retro 2 Experiment
+**Graded**: ({{page.num}}-T) (15 pts) You earn these team points if you have planned future team leadership roles and logged them in your GitHub ./team/LEADERSHIP.md as per instructions below 
+**Graded**: ({{page.num}}-T) (40 pts) You earn these team points if you started a design document that you link to in your Github ./docs/DESIGN.md and that contains at the very least an overview system architecture diagram and associated explanation.  
+</div>
+
 
 # Retro 2 Outcome Logging
 * For the experiment you decided upon in your second retrospective, use the metric that you had planned on using to decide if the change brought positive results or not. Log the outcome in the following way 
@@ -41,13 +45,26 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
   * The outcome according to the metric now that the next Sprint is done (maybe already for a while).
   * Your conclusions based on this outcome. You can decide to cement this change going forward, to modify it (start a new experiment), or to discard it and go back to previous procedures.    
   ```
- 
 
 # Review and Plan Leadership Roles
 TBA
 
 # Start Design Document
-TBA 
+Start a Design Document (as a Google Doc or another `living document` format of your choice) and link to it in a new ./docs/DESIGN.md file in your GitHub. 
+It should contain, for starters, a high-level system architecture overview diagram for your project, with associated explanations of all parts in some text paragraphs accompanying it.   
+
+For examples that might stir your creativity, you can check out, e.g., the Requirement Documents in [UCSB Capstone projects](https://capstone.cs.ucsb.edu/past20.html)   
+
+You can use any diagramming tool of your choice. Please post in Slack if you like a tool beyond the ones in the list below, but here are some options:   
+   * Google Slides
+   * LibreOffice (Impress, Draw)
+   * Microsoft Powerpoint or Visio (if you have access to MS Office) 
+Or some web-based solutions: 
+   * [diagrams.net](https://www.diagrams.net)
+   * [Gliffy](https://www.gliffy.com/)
+   * [graphviz](https://graphviz.org)
+Or on Mac/IOS:     
+* [Flowchart Designer 3](https://apps.apple.com/app/flowchart-designer-3/id1512570906) 
 
 # Part II: Deployment Manual
 
