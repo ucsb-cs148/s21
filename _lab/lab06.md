@@ -85,7 +85,7 @@ Also, whoever is chosen below as the "Design Document Coordinator" will be respo
 * **Testing/QA Coordinator**. 
       Ultimately, responsible for making sure that user stories and issues have acceptance criteria, and that
       these are met before pull requests are accepted into master. If you are doing any sort of TDD or BDD, this person will also mainly coordinate that effort. 
-* **Retro 3 leader**.  This person will lead the third retro during lab08 (06/03 or 06/04) 
+* **Retro 3 leader**.  This person will lead the third retro during week 9.
 * **UX Coordinator**.  Responsible for the look and feel of the product, and the way that the user interacts with the
       product. By next week, will have a set of pointers and recommendations for the UI/UX of your products...
 * **Design Document Coordinator**.  This person is responsible for the design process documentation started in this lab, chiefly the document pointed to by ./docs/DESIGN.md.
