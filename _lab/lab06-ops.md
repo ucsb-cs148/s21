@@ -1,10 +1,9 @@
 ---
 layout: lab
-num: lab06-Ops
+num: lab06-ops
 ready: false
-desc: "Ops Instructions"
-assigned: 2021-05-13 14:00
-due: 2021-05-21 14:00
+desc: "Deployment Instructions"
+assigned: 2021-05-14 14:00
 due: 2021-05-28 14:00
 github_org: "ucsb-cs48-s20"
 ---
@@ -27,12 +26,14 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 
-# Ops Video / Instructions
+# Deployment Instructions / Video
 This part of the lab has a two-week performance period. 
 
 One of the important aspects of Software Development that often gets overlooked in the academic curriculum is "operations".   
 
-Operations refers to the things other than your code that are necessary to deploy a running application.   This includes:
+For your MVP, you already provided detailed deployment instructions in your GitHub README.md. In this lab, you will  
+
+Operations refers to the things other than your code that are necessary to deploy a running application.  This includes:
 * configuring the platform on which the software is deployed
 * configuring external dependencies such as authorization servers, databases, API credentials, etc.
 * configuring initial accounts (for example, accounts for admins, etc.)
@@ -46,11 +47,11 @@ This part of the assignment is divided across two labs, this one, and [lab08](ht
 
 ## Part One: Written Deployment Instructions
 
-Someone on your team should prepare a set of instructions with all of the steps necessary to start with nothing but "read only" access to your repo, and end with a running instance of your app on Heroku.  
+Someone on your team should prepare a set of instructions with all of the steps necessary to start with nothing but "read only" access to your repo, and end with a running instance of your app on a platform (or multiple platforms) you support.  
 
 While this is a team grade, it is likely that you'll assign one or more people from your team to focus on this, while other members of your team are working on fixing bugs or adding new features.  
 
-So, please make `Deploy Instructions (lab05)` an "issue" and track it on your Kanban board along with your other issues.  Ideally, whoever is working on these instructions is not *also* juggling working on a coding issue at the same time, so this is the only issue to which they are assigned while they are working on it.
+So, please make `Deploy Instructions (lab06-ops)` an "issue" and track it on your Kanban board along with your other issues.  Ideally, whoever is working on these instructions is not *also* juggling working on a coding issue at the same time, so this is the only issue to which they are assigned while they are working on it.
 
 ### Share instructions, NOT credentials
 
@@ -74,6 +75,8 @@ There should be a link to `./docs/DEPLOY.md` from your main `README.md` file of 
 ```
 * [Deployment Instructions](./docs/DEPLOY.md)
 ```
+
+This replaces the `Installation Steps` Section you previously wrote in the README.MD file as per [lab03](https://ucsb-cs148.github.io/s21/lab/lab04/) instructions. 
 
 ## Part Two: Deployment Video (OPTIONAL)
 
