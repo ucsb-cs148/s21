@@ -1,5 +1,5 @@
 ---
-desc: "Thursday Breakout: Meeting Logs, sabrinInitial README, Team Agreements"
+desc: "Thursday Breakout: Meeting Logs, Initial README, Team Agreements"
 lecture_date: 2021-04-08
 num: lect03
 ready: true
