@@ -6,14 +6,13 @@ ready: true
 ---
 
 # Announcements
-* Overview of remaining topics and deliverables (3.5 more weeks of instruction, plus project presentations on June 10th) 
-    * Still no current homework assignment. Focus on projects!   
-    * Project documentation ongoing in three major documents: 
-        * **design document**,
-        * **deployment instructions** (both started in current lab: [lab06](https://ucsb-cs148.github.io/s21/lab/lab06/)) , 
-        * **user manual** (to be started in lab07))
-    * A fourth important document is the Github **README.md**, which should explain the code folder hierarchy and guide through the implementation effort 
-    * Project presentations (Final exam slot, June 10th, 4-7pm)
+* Still no current homework assignment. Focus on projects!   
+* Project documentation ongoing in three major documents: 
+    * **design document**,
+    * **deployment instructions** (both started in current lab: [lab06](https://ucsb-cs148.github.io/s21/lab/lab06/)) , 
+    * **user manual** (to be started in lab07))
+* A fourth important document is the Github **README.md**, which should explain the code folder hierarchy and guide through the implementation effort 
+* Project presentations (Final exam slot, June 10th, 4-7pm)
 
 Here is the updated point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 35% of the course grade.
 
