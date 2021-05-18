@@ -37,10 +37,11 @@ Here is the updated point percentage breakdown for grading that the teaching tea
 # Today: Work in Breakout Groups
 * Standup
 * Continue [lab06](https://ucsb-cs148.github.io/s21/lab/lab06/) 
-    * Design Document (including a high-level system diagram), 
-    * Deployment and Operations Document (from README), 
     * Review of Leadership Roles 
     * Log Retrospective 2 experiment outcome
+    * Design Document (including a high-level system diagram), 
+    * Deployment and Operations Document (from README), 
+
 
 
 
