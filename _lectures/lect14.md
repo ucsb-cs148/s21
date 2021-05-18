@@ -2,7 +2,7 @@
 desc: "Project Documentation, UML"
 lecture_date: 2021-05-18
 num: lect14
-ready: false
+ready: true
 ---
 
 # Announcements
@@ -12,15 +12,16 @@ ready: false
         * **design document**,
         * **deployment instructions** (both started in current lab: [lab06](https://ucsb-cs148.github.io/s21/lab/lab06/)) , 
         * **user manual** (to be started in lab07))
+    * A fourth important document is the Github **README.md**, which should explain the code folder hierarchy and guide through the implementation effort 
     * Project presentations (Final exam slot, June 10th, 4-7pm)
 
 Here is the updated point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 35% of the course grade.
 
 * 15% Presentation
 * 5% Idea, and Idea Refinement 
-* 25% Functionality, Quality (Reliability & Polish, judged by demonstration, manual, peer review, teaching team testing) 
-* 10% Technical Difficulty Implemented (judged by review of implementation taking into account team background/experience etc.)
-* 20% Implementation (judged by Github code, PRs)
+* 25% Functionality, Quality (Reliability & Polish) --- judged by review of demonstration, user manual, peer review, teaching team testing 
+* 10% Technical Difficulty Implemented --- judged by review of code/scope taking into account team background/experience etc.
+* 20% Implementation --- judged by review of Github code, PRs, use the README.md to make clear the repository structure and guide through implementation effort! 
 * 15% Design Process (judged by Design Document, Kanban Board, Meeting Logs, Github TEAM information, etc. Design Document should steer through the process.)
 * 10% Manual 
 
