@@ -1,5 +1,5 @@
 ---
-desc: "Testing Tools, Different Types of Testing"
+desc: "Testing Tools, Different Types of Testing: Component, End-To-End, and BDD Testing"
 lecture_date: 2021-05-11
 num: lect12
 ready: true

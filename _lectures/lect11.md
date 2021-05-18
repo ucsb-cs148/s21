@@ -1,5 +1,5 @@
 ---
-desc: "Testing Tools, Different Types of Testing"
+desc: "Testing Tools, Different Types of Testing: Unit Testing"
 lecture_date: 2021-05-06
 num: lect11
 ready: true
