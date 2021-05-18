@@ -1,5 +1,5 @@
 ---
-desc: "Production pipeline. Feature-branch/pull request workflow"
+desc: "Project Presentation Announcement, MVP Planning"
 lecture_date: 2021-04-27
 num: lect08
 ready: true
