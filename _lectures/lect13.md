@@ -1,5 +1,5 @@
 ---
-desc: "Testing Tools, Different Types of Testing"
+desc: "Documentation Efforts, Testing Coverage"
 lecture_date: 2021-05-13
 num: lect13
 ready: true
