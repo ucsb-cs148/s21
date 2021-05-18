@@ -1,5 +1,5 @@
 ---
-desc: "Documentation Efforts, Testing Coverage"
+desc: "Documentation Efforts, Testing Coverage, SW Hierarchy of Needs"
 lecture_date: 2021-05-13
 num: lect13
 ready: true
