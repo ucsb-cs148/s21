@@ -12,23 +12,23 @@ exam_date: 2021-06-10 16:00
 
 Here is the point percentage breakdown for grading that the TAs and I plan to use for the “Final Product” 35% of the course grade.
 
-15% Presentation
-5% Idea, and Idea Refinement
-25% Functionality, Quality (Reliability & Polish)
-15% Technical Difficulty Implemented
-20% Implementation
-10% Design Process
-10% Manual 
+* 15% Presentation
+* 5% Idea, and Idea Refinement
+* 25% Functionality, Quality (Reliability & Polish)
+* 10% Technical Difficulty Implemented
+* 20% Implementation
+* 15% Design Process
+* 10% Manual 
 
-We will cross-reference against both an initial quartiling judgment averaged among the evaluators, and against a ranking stemming from peer-review
+We will cross-reference against a ranking obtained from an overall quartiling judgment averaged among the evaluators.
 
-Each group will have up to 10 minutes for a prepared presentation.
+Each group will have up to 10 minutes for a prepared presentation video submitted two days prior.
 
 This will be followed by 10 minutes of live exploration of the app
-by the instructor, plus questions.   Each member of the group should be
+by the teaching team, plus questions. Each member of the group should be
 available for the question session.
 
-The ten minute presentation should include a demo, as well as a discussion of
+The ten minute video presentation should include a demo, as well as a discussion of
 technical matters.
 
 **Technical matters to cover:**
