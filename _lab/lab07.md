@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab07
-ready: false
+ready: true
 desc: "User Flow, Start Manual, Continue Design Document, Retro 3"
 assigned: 2021-05-21 13:00
 due: 2021-05-28 14:00
