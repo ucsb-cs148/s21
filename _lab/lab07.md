@@ -37,8 +37,9 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 
-# User Flow (to be used in Design Document and to plan/structure user manual)
-[Task/User Flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
+# User Flow 
+A high-level overview (diagram and associated explanation) of your product's 
+[Task/User Flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/) can be used as the starting point for the UX section in your Design Document and also for planning/structuring your user manual.
 
 
 # Updated Design Document
