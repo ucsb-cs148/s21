@@ -36,7 +36,7 @@ Here, again, is the now agreed-upon point percentage breakdown for grading that 
 * Slides: [Software Patterns](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_Patterns.pdf)
 
 # UX Design
-* 8 Golden Rules of UI Design 
+* [8 Golden Rules of UI Design](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_UIPrinciples.pdf) 
 * Update to Google's Design Philosophy, Material Design: [Material You](https://material.io/blog/announcing-material-you), [Summary](https://www.engadget.com/google-material-you-android-personalized-redesign-182501466.html)
 * Tools for Wireframing: Adobe XD, Figma, Wireframe.cc, (On Mac:) Sketch 
 
