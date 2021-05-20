@@ -27,9 +27,9 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if you a) expanded the Design process document by summarizing important team decisions referring to meetings logged in your GitHub repo, and b) created a new Section in your Design Document talking about your User Experience (UX) considerations. A high-level task/user flow (see below) might be the first thing to document there, and it will also be helpful for determining the structure of your manual (see next bullet).
+**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if you a) expanded the Design Document by summarizing important team decisions referring to meetings logged in your GitHub repo, and b) created a new Section in your Design Document talking about your User Experience (UX) considerations. A high-level task/user flow (see below) might be the first thing to document there, and it will also be helpful for determining the structure of your manual (see next bullet).
 
-**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if you started a user manual document that you link to in your Github ./docs/MANUAL.md and that contains at the very least a description of the product purpose, lists the intended user audience, and has section headings (which are allowed to change later on) with placeholder information documenting the various features of your product and how to operate them.  
+**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if you started a user manual document that you link to in your Github ./docs/MANUAL.md and that contains at the very least a description of the product purpose, lists the intended user audience, and has section headings (which are allowed to change later on) with placeholder information (could even be [Lorem Ipsum text](https://www.lipsum.com/) for now) that in the future should document the various features of your product and how to operate them (with plenty of screenshots).  
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your third and last retrospective on Tue, 05/25 (or whenever your team opts to hold it); 4 per team member for teams of five, 5 points per team member for teams of four.
 
@@ -39,6 +39,14 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # User Flow (to be used in Design Document and to plan/structure user manual)
 [Task/User Flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
+
+
+# Updated Design Document
+The exact structure of the Design Document that you started during the last lab is left to your team to determine, but to get you started, we recommend at least the following set of sections in some form and order: 
+* Opening/Overview section with high-level system architecture overview diagram for your project, with associated explanations of all parts in some text paragraphs accompanying it.
+* More Detailed SW Architecture Design: Describe the main modules in your SW Design in more detail
+* Design Process Documentation Section: This is where you can satisfy the poit a) from the first grading bullet above: Document your design process by summarizing important team decisions referring to specific meetings logged in your GitHub repo.
+* User Interface and User Experience (UX) considerations. Your high-level task/user flow (see above) might be the first thing to document here.
 
 # Start User Manual Document
 Start a User Manual Document (as a Google Doc or another `living document` format of your choice) and link to it in a new ./docs/MANUAL.md file in your GitHub. 
