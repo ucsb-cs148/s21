@@ -62,7 +62,6 @@ Make sure you have a Retro leader assigned (should be the case since it was part
 
 You already know the goal and procedure for Retrospectives from your RETRO_01 and RETRO_02. This Retrospective allows you to discuss things that are relevant on your final stretch to product deployment, documentation, and presentation.
 
-## Deliverable
 
 * In your team's repo, under `team/retrospectives` directory, add a file `RETRO_03.md` capturing the following:
 
