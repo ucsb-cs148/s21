@@ -7,12 +7,12 @@ ready: true
 
 # Announcements
 * [Homework assignment h08](https://ucsb-cs148.github.io/s21/hwk/h08/) on SW Design Patterns posted. Due next Tuesday. 
-* Still **focus on your projects**. Lab work on documentation (**design document**, **user manual**) is meant to get you started and to utilize cycles of team members not currently central to implementation efforts at any given time. 
+* Still **focus on your projects**. Lab work on documentation (**design document**, **user manual**) is meant to get you started and to utilize cycles of team members not central to ongoing implementation efforts at any given time. 
 * Difference of **README.md** and **design document**: 
     * The README.md describes the GitHub structure and folder hierarchy and makes sure a programmer can make sense of it. It now should **link** to the deployment instructions. 
     * The Design Document does not need to directly relate to the repository or to deployment details. It operates on a higher level: Overall SW architecture, modules, and their interaction. It also contains the UX design documentation... 
-* Deployment instructions will be really important for the **group peer-evaluation** next week [lab08](https://ucsb-cs148.github.io/s21/lab/lab08/)) , 
-* **Code Freeze** for your projects will be a week later, Friday, June 4th!
+* Deployment instructions will be really important for the **group peer-evaluation** next week [lab08](https://ucsb-cs148.github.io/s21/lab/lab08/). 
+* **Code Freeze** for your projects will be a week later, **Friday, June 4th**!
 * All documentation apart from the presentation video will be due at the end of **Tuesday, June 8th**. 
 * Project presentations will take place, as long announced and planned, during the final exam slot, **June 10th, 4-7pm**.
 
