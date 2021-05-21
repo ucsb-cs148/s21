@@ -13,7 +13,7 @@ ready: true
     * The Design Document does not need to directly relate to the repository or to deployment details. It operates on a higher level: Overall SW architecture, modules, and their interaction. It also contains the UX design documentation... 
 * Deployment instructions will be really important for the **group peer-evaluation** next week [lab08](https://ucsb-cs148.github.io/s21/lab/lab08/). 
 * **Code Freeze** for your projects will be a week later, **Friday, June 4th**!
-* All documentation apart from the presentation video will be due at the end of **Tuesday, June 8th**. 
+* All documentation and the presentation video will be due at the end of **Tuesday, June 8th**. 
 * Project presentations will take place, as long announced and planned, during the final exam slot, **June 10th, 4-7pm**.
 
 Here, again, is the now agreed-upon point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 35% of the course grade:
