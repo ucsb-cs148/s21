@@ -95,7 +95,9 @@ You already know the goal and procedure for Retrospectives from your RETRO_01 an
 
   * A brief description of what retro outline or process you used.
   * A brief assessment of how it went.
-  * A brief statement on how much any of the Retros changed the way you worked as a team (no correct answer here. Teams could be happy with the way they started operating from the get-go, and Retrospectives would just be quick confirmations then, or teams could have tried a lot of different things based on their retro reviews. We just would like to know!)
+  * A brief statement on how much any of the Retros changed the way you worked as a team (no correct answer here. 
+    Teams could be happy with the way they started operating from the get-go and Retrospectives would just be quick 
+    confirmations then, or teams could have tried a lot of different things based on their retro reviews. We just would like to know!)
   ```
  
    
