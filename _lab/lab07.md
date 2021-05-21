@@ -46,7 +46,7 @@ A high-level overview (diagram and associated explanation) of your product's
 The exact structure of the Design Document that you started during the last lab is left to your team to determine, but to get you started, we recommend at least the following set of sections in some form and order: 
 * Opening/Overview section with high-level system architecture overview diagram for your project, with associated explanations of all parts in some text paragraphs accompanying it.
 * More Detailed SW Architecture Design: Describe the main modules in your SW Design in more detail
-* Design Process Documentation Section: This is where you can satisfy the poit a) from the first grading bullet above: Document your design process by summarizing important team decisions referring to specific meetings logged in your GitHub repo.
+* Design Process Documentation Section: This is where you can satisfy the point a) from the first grading bullet above: Document your design process by summarizing important team decisions referring to specific meetings logged in your GitHub repo.
 * User Interface and User Experience (UX) considerations. Your high-level task/user flow (see above) might be the first thing to document here.
 
 # Start User Manual Document
