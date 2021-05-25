@@ -127,7 +127,7 @@ anything else you think would be helpful for the team that is working on the app
 - What suggestions do you have for improvements or new features?
 - Would you use this app?  Why or why not?
 
-# Step 6: Notify the other team that your review is finished via Slack.
+# Step 5: Notify the other team that your review is finished via Slack.
 
 When your review is finished remove the line:
 
