@@ -1,8 +1,8 @@
 ---
-desc: "SW Design Patterns, UX Principles"
+desc: "UX Evaluation, 3rd Retro"
 lecture_date: 2021-05-25
 num: lect16
-ready: false
+ready: true
 ---
 
 # Announcements
@@ -26,7 +26,13 @@ Here, again, is the now agreed-upon point percentage breakdown for grading that 
 * 15% Design Process 
     * judged by Design Document, Kanban Board, Meeting Logs, Github TEAM information, etc. Design Document should steer through the process.
 * 10% Manual 
- 
+
+# End User Evaluation
+
+You will likely not have time to conduct your own independent end user evaluation (prove us wrong if you do!), but this week's peer group evaluation will be a step in that direction
+
+* Slides on User Evaluation
+
 # Today (or at your schedule): Third and Last Retrospective
 
 This is your last major opportunity to inspect and adapt on your path toward the goal line!
