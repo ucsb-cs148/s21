@@ -1,13 +1,17 @@
 ---
 desc: "SW Design Patterns, UX Principles"
-lecture_date: 2021-05-25
-num: lect16
-ready: false
+lecture_date: 2021-05-20
+num: lect15
+ready: true
 ---
 
 # Announcements
-* In the interest of bundling all your energy on the final product deliverables, we will not have an 8th homework. 
-* This week's lab will be taken up by the **group peer-evaluation** [lab08](https://ucsb-cs148.github.io/s21/lab/lab08/), so make sure to finish all points for ongoing labs 06 and 07 before Section starts.
+* [Homework assignment h08](https://ucsb-cs148.github.io/s21/hwk/h08/) on SW Design Patterns posted. Due next Tuesday. 
+* Still **focus on your projects**. Lab work on documentation (**design document**, **user manual**) is meant to get you started and to utilize cycles of team members not central to ongoing implementation efforts at any given time. 
+* Difference of **README.md** and **design document**: 
+    * The README.md describes the GitHub structure and folder hierarchy and makes sure a programmer can make sense of it. It now should **link** to the deployment instructions. 
+    * The Design Document does not need to directly relate to the repository or to deployment details. It operates on a higher level: Overall SW architecture, modules, and their interaction. It also contains the UX design documentation... 
+* Deployment instructions will be really important for the **group peer-evaluation** next week [lab08](https://ucsb-cs148.github.io/s21/lab/lab08/). 
 * **Code Freeze** for your projects will be a week later, **Friday, June 4th**!
 * All documentation and the presentation video will be due at the end of **Tuesday, June 8th**. 
 * Project presentations will take place, as long announced and planned, during the final exam slot, **June 10th, 4-7pm**.
@@ -26,51 +30,27 @@ Here, again, is the now agreed-upon point percentage breakdown for grading that 
 * 15% Design Process 
     * judged by Design Document, Kanban Board, Meeting Logs, Github TEAM information, etc. Design Document should steer through the process.
 * 10% Manual 
- 
-# Today (or at your schedule): Third and Last Retrospective
 
-This is your last major opportunity to inspect and adapt on your path toward the goal line!
-This week's lab there will be our peer evaluation where another team tests your deployment instructions and current state product, and then there is one more week of development until code freeze! 
+# SW Design Patterns 
+* There is **no** requirement for using/documenting SW patterns in your design documentation! 
+* Slides: [Software Patterns](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_Patterns.pdf)
 
-You already know the goal and procedure for Retrospectives from your previous retros. This Retrospective allows you to discuss things that are important to get to the best team productivity in this critical final final stretch to product deployment, documentation, and presentation.
+# UX Design
+* [8 Golden Rules of UI Design](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_UIPrinciples.pdf) 
+* Update to Google's Design Philosophy, Material Design: [Material You](https://material.io/blog/announcing-material-you), [Summary](https://www.engadget.com/google-material-you-android-personalized-redesign-182501466.html)
+* Tools for Wireframing: Adobe XD, Figma, Wireframe.cc, (On Mac:) Sketch 
 
-* In your team's repo, under `team/retrospectives` directory, add a file `RETRO_03.md` capturing the following:
-
-  ```
-  # Retro #3 <date>
-
-  * Led by: name-goes-here
-  * Present: name1, name2, ... , nameN
-  * Absent: name1, name2, ...
-
-  ## Action item
-
-  * a goal: identify something the team wants to get better at
-  * a change: identify one thing that the team will change about how it works together
-  * a measurement: identify at least one way to measure whether the change helped the team acheive the goal, or move closer to it.
-
-  ## Optional
-
-  * Record anything else you think the team might want to remember from this retro
-
-  ```
-
-* After the Retro
-
-  All Team members: Fill out peer eval survey (on email from CATME.org)
-  
-  Retro leader: add the following Section to `RETRO_03.md`:
-  
-  ```
-  ## Retro Assessment
-
-  * A brief description of what retro outline or process you used.
-  * A brief assessment of how it went.
-  * A brief statement on how much any of the Retros changed the way you worked as a team (no correct answer here. 
-    Teams could be happy with the way they started operating from the get-go and Retrospectives would just be quick 
-    confirmations then, or teams could have tried a lot of different things based on their retro reviews. We just would like to know!)
-  ```
-
+# Today: Work in Breakout Groups
+* Standup
+* Continue [lab06](https://ucsb-cs148.github.io/s21/lab/lab06/) 
+    * Review of Leadership Roles 
+    * Log Retrospective 2 experiment outcome
+    * Design Document (including a high-level system diagram), 
+    * Deployment and Operations Document (from README)
+* Start with [lab07]](https://ucsb-cs148.github.io/s21/lab/lab07/) 
+    * Start **Manual** by identifying high-level [Task/User Flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)     
+    * Continue Design Document (new Section on documenting UI Design choices)
+    * Plan Retro 3 (Tue, May 25)
 
 
 
