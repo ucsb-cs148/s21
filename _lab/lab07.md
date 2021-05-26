@@ -33,7 +33,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your third and last retrospective on Tue, 05/25 (or whenever your team opts to hold it); 4 per team member for teams of five, 5 points per team member for teams of four.
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these points for submitting feedback on overall team performance via a third CATME.org form survey that you will get email invitations for.
+**Graded**: ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a third CATME.org form survey that you will get email invitations for.
 </div>
 
 
