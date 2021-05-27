@@ -113,9 +113,9 @@ If there are naming possibilities for deployments (e.g. Heroku apps), call your 
 * `t1-chris` is your team's number and your name (which comes before `-tries-`)
 * `t3` is the team number of the code your are trying out (which comes after `-tries-`)
 
-You may need to create Auth0 or Google credentials, MongoDB credentials, other API credentials, etc.
+You may need to create Auth0 or Google credentials, MongoDB credentials, other API credentials, etc. Ideally, the creation of those will be sufficiently described in your deployment instructions, but for the purpose of successfully completing this peer review, feel free to share throwaway credentials with the reviewing team!   
 
-As you do, follow the instructions provided in the writeup and/or the video.
+As you do, follow the instructions provided in the deployment instructions and/or video.
 
 As you run into issues and/or problems, document these, and also work with the other team through Slack to try to resolve them.
 
