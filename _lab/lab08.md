@@ -4,7 +4,7 @@ num: lab08
 ready: true
 desc: "Group Peer Eval, One week to Code Freeze"
 assigned: 2021-05-28 13:00
-due: 2021-06-04 23:59
+due: 2021-05-29 12:00
 github_org: "ucsb-cs148-s21"
 ---
 
