@@ -31,7 +31,7 @@ Here, again, is the now agreed-upon point percentage breakdown for grading that 
 * 10% Manual 
 
 
-# Today (or at your schedule): Finish Prepare Peer Review 
+# Today: Finish Ongoing Labs and Prepare Peer Review 
 
 * Standup 
 * Make sure that lab06 and lab07 action items are all completed before lab08 starts! Specifically, check and test your deployment instructions and make sure they are linked to from your README.md 
