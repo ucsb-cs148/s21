@@ -31,7 +31,7 @@ Here, again, is the now agreed-upon point percentage breakdown for grading that 
 
 You will likely not have time to conduct your own independent end user evaluation (prove us wrong if you do!), but this week's peer group evaluation will be a step in that direction
 
-* Slides on User Evaluation
+* [Slides on User Evaluation](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_UserEvaluation21.pdf)
 
 # Today (or at your schedule): Third and Last Retrospective
 
