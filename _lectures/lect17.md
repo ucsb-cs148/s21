@@ -7,7 +7,11 @@ ready: true
 
 # Announcements
 * Reminder: This week's lab will be taken up by the **group peer-evaluation** [lab08](https://ucsb-cs148.github.io/s21/lab/lab08/), so make sure to finish all points for ongoing labs 06 and 07 before Section starts.
-* **Code Freeze** for your projects will be a week later, **Friday, June 4th**!
+* In particular, don't forget to fill in your last CATME team member peer review for lab07 points! 
+
+# Remaining Schedule Reminder: 
+
+* **Code Freeze** for your projects will be a week after this week's peer review, **Friday, June 4th**!
 * All documentation and the presentation video will be due at the end of **Tuesday, June 8th**. 
 * Project presentations will take place, as long announced and planned, during the final exam slot, **June 10th, 4-7pm**.
 
