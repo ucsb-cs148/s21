@@ -45,7 +45,8 @@ up and running on supported platform(s).
 
 In this lab:
 * The 4-5 people on your team will work together to try out the written instructions (and potentially videos) of the other team you got assigned from your discussion section, and provide feedback to them.
-* In turn, you'll be receiving feedback from one of the other teams in your discussion section on your own deployment instructions.
+* Each team will also test the current state of the deployed product. NOTE: the performance of your product today has absolutely no grade consequences. It is merely a chance for constructive feedback that you can take into account in your week towards code freeze!  
+* In return, you'll be receiving feedback from one of the other teams in your discussion section on your own deployment instructions and product.
 
 The following table lists the review pairings for all teams: 
 
