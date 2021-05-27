@@ -29,7 +29,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (30 pts) Team has provided access to its own repo and `-DEPLOY-FEEDBACK` repo to members of the other team in timely fashion.
 
-**Graded**: ({{page.num}}-T) (70 pts) Team has worked together to complete the review of the other team's products, according to instructions, by the deadline for this assignment.
+**Graded**: ({{page.num}}-T) (70 pts) Team members worked together to complete the review of the other team's products, according to instructions, by the deadline for this assignment.
 
 Note: "In a timely fashion" in the items above means "during the lecture or section in which this assignment is made, or within a few hours afterwards"; this is based
 on the fact that time will be given during class to complete these tasks.
