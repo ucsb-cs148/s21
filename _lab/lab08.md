@@ -29,7 +29,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (30 pts) Team has provided access to its own repo and `-DEPLOY-FEEDBACK` repo to members of the other team in timely fashion.
 
-**Graded**: ({{page.num}}-I) (70 pts) Individually, everyone has completed the review of the other team's products, according to instructions, by the deadline for this assignment.
+**Graded**: ({{page.num}}-T) (70 pts) Team has worked together to complete the review of the other team's products, according to instructions, by the deadline for this assignment.
 
 Note: "In a timely fashion" in the items above means "during the lecture or section in which this assignment is made, or within a few hours afterwards"; this is based
 on the fact that time will be given during class to complete these tasks.
@@ -44,9 +44,21 @@ described how to start with only your team's source code repo, and finish with a
 up and running on supported platform(s).
 
 In this lab:
-* The 4-5 people on your team will each separately try out the written instructions and videos of the other team you got assigned from your discussion section, and provide feedback to them.
-* In turn, you'll be receiving feedback from all members of one of the other teams in your discussion section on your own instructions and video.
+* The 4-5 people on your team will work together to try out the written instructions (and potentially videos) of the other team you got assigned from your discussion section, and provide feedback to them.
+* In turn, you'll be receiving feedback from one of the other teams in your discussion section on your own deployment instructions.
 
+The following table lists the review pairings for all teams: 
+
+| Your Team  | will review team | will be reviewed by team |
+|---|---|---|
+| t1-rec-cen  | t3-course-recommender  | t2-food-bank  |
+| t2-food-bank	  | t1-rec-cen  | t3-course-recommender  |
+| t3-course-recommender	 | t2-food-bank  |  t1-rec-cen |
+| t4-community-based-map | t8-bike  | t5-we-connect |
+| t5-we-connect  | t4-community-based-map  |  t6-ucsb-poll |
+| t6-ucsb-poll	  | t5-we-connect  |  t7-file-transfer |
+| t7-file-transfer  | t6-ucsb-poll  | t8-bike  |
+| t8-bike  | t7-file-transfer  | t4-community-based-map  |
 
 # Step 1: Prepare FEEDBACK Repo and grant access to your reviewers
 
@@ -63,10 +75,12 @@ This new repo is private.   You will need to:
 * grant write access to your team's `-DEPLOY-FEEDBACK` repo to all members from the other team in your section that is reviewing your repo
 * obtain write access to the other team's repos for each person on your team that is participating in a review
 
-Please communicate with the other team through Slack. We will identify a contact person for each team and you can Slack DM with them to coordinate. 
+Here is a [table with the slack display names of all team members](https://docs.google.com/spreadsheets/d/1BnGP-2nbP-HI3eNsd3Nc8gkpL8mAMNjratRvxIAI-gs/edit?usp=sharing).
 
 To grant access you'll need the github id's of the folks from the other team (which you can obtain
 using the `/whois @ScreenName` command on the course Slack.)   
+
+Please communicate with the other team through Slack. Contact persons for each team will be listed [in this table](https://docs.google.com/spreadsheets/d/1rGk06L3xZ08sWqDN3o_FKx8b-mQrxYGO_mrf6XcW0vA/edit?usp=sharing) and you can Slack DM with them to coordinate. 
 
 To grant access, you visit the `Settings` Page of the repo, then `Manage Access` (url is `/settings/access`).
 
