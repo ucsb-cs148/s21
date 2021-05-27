@@ -49,7 +49,7 @@ In this lab:
 
 The following table lists the review pairings for all teams: 
 
-| Your Team  | will review team | will be reviewed by team |
+| Your Team  | will review team | and will be reviewed by team |
 |---|---|---|
 | t1-rec-cen  | t3-course-recommender  | t2-food-bank  |
 | t2-food-bank	  | t1-rec-cen  | t3-course-recommender  |
