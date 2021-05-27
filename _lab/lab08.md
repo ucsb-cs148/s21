@@ -93,7 +93,7 @@ To make these instructions concrete:
    
 # Step 3: Actually try deploying the app
 
-Each of you should then try deploying the app from the other discussion sections assigned to you.  
+Each of you should then try deploying the app from the other team assigned to you.  
 
 If there are naming possibilities for deployments (e.g. Heroku apps), call your app: `cs148-s21-t1-chris-tries-t3, where:
 * `t1-chris` is your team's number and your name (which comes before `-tries-`)
