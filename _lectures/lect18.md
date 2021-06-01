@@ -2,7 +2,7 @@
 desc: "Work towards code Freeze, Ethics Examples (recording)"
 lecture_date: 2021-06-01
 num: lect18
-ready: false
+ready: true
 ---
 
 # Announcements
