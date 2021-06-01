@@ -49,7 +49,7 @@ A few examples to stir your imagination:
   
 * Making sure to listen to your team mates and give everyone a chance to feel like they are a part of the team, because the internal team work and how everyone contributes is crucial to the team's effectiveness and success. 
   
-Let's take a moment: what are some other lessons you've learned this quarter?  Please type them type them into the `#lessons-learned` channel now open in Slack!   
+Let's take a moment: what are some other lessons you've learned this quarter?  Please type them type them into the `#lessons_learned` channel now open in Slack!   
 
 
 # ESCIs (Course Evaluations)
