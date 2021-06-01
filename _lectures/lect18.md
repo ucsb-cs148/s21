@@ -46,7 +46,7 @@ A project-oriented course such as CS148 emphasizes learning by doing and the exp
 
 Response rate as of 10:00am 06/01/2020:
 
-Course ID |	Enrollment Count	|Surveys Completed	|Percent Completed|
+| Course ID |	Enrollment Count	|Surveys Completed	|Percent Completed|
 |-|-|-|-|
 | CMPSC 148 	| 39	| 7 |	17.95% |
 {:.table .table-sm .table-striped .table-bordered}
