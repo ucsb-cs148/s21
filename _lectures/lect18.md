@@ -1,5 +1,5 @@
 ---
-desc: "Work towards code Freeze, Ethics of SW Development"
+desc: "Work Towards Code Freeze, Ethics of SW Development"
 lecture_date: 2021-06-01
 num: lect18
 ready: true
