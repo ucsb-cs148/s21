@@ -60,7 +60,7 @@ Various factors will include:
   - Is the user interface easy to use, or challenging to figure out?
   - Is the user interface consistent? (e.g. user interface elements are nicely aligned rather than weirdly and haphazardly placed on the screen.)
   - Is the user interface pleasing to the eye?
-* Testing Strategies:
+* Testing Strategies (this wasn't a required focus this quarter):
   - Is there a documented test strategy linked to from the README.md file?
   - Does the test strategy include unit, integration and end-to-end testing?
   - How extensive is the test coverage?
