@@ -38,6 +38,20 @@ Final Project Grading Dimensions:
     * judged by Design Document, Kanban Board, Meeting Logs, Github TEAM information, etc. Design Document should steer through the process.
 * 10% Manual 
 
+# Briefly: Some Lessons Learned
+
+In our teaching team meetings, the staff share some of the lessons learned. We ask you to think of some as well, so that we will have some collective wisdom for future iterations of this class. 
+A few examples to stir your imagination: 
+
+* During a rebase, *just rebase*.  Don't make changes (i.e. fix bugs, add features) during a rebase.  Only focus on 
+  fixing merge conflicts.    Make your changes to fix bugs or add features before the rebase, or after the rebase,
+  but *not during*.
+  
+* Making sure to listen to your team mates and give everyone a chance to feel like they are a part of the team, because the internal team work and how everyone contributes is crucial to the team's effectiveness and success. 
+  
+Let's take a moment: what are some other lessons you've learned this quarter?  Please type them type them into the `#lessons-learned` channel now open in Slack!   
+
+
 # ESCIs (Course Evaluations)
 
 You are likely getting many reminders from the automated system about course evaluations (ESCIs). I would like to also remind you to please take a moment before the deadline on **Friday June 4th** to enter your feedback about the course.  It is very important for the university to evaluate the quality of instructor's teaching (Question A) and the overall quality of the course (Question B).
@@ -54,20 +68,6 @@ Response rate as of 10:00am 06/01/2020:
 So **PLEASE** fill in your evaluations!
 
 Thank you all for taking the time (especially after so many peer eval questionnaires! :))  
-
-
-# Briefly: Some Lessons Learned.
-
-In our teaching team meetings, the staff share some of the lessons learned. We ask you to think of some as well, so that we will have some collective wisdom for future iterations of this class. 
-A few examples to stir your imagination: 
-
-* During a rebase, *just rebase*.  Don't make changes (i.e. fix bugs, add features) during a rebase.  Only focus on 
-  fixing merge conflicts.    Make your changes to fix bugs or add features before the rebase, or after the rebase,
-  but *not during*.
-  
-* Making sure to listen to your team mates and give everyone a chance to feel like they are a part of the team, because the internal team work and how everyone contributes is crucial to the team's effectiveness and success. 
-  
-Let's take a moment: what are some other lessons you've learned this quarter?  Please type them type them into the `#lessons-learned` channel now open in Slack!   
 
 
 # Today: Work Towards Code Freeze 
