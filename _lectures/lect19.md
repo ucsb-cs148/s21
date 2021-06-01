@@ -6,7 +6,7 @@ ready: false
 ---
 
 # Announcements
-* Pride on what you achieved! 
+* Pride for what you achieved! 
 
 # Remaining Schedule Reminder: 
 
