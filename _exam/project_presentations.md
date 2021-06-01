@@ -28,7 +28,7 @@ This will be followed by 10 minutes of live exploration of the app
 by the teaching team, plus questions. Each member of the group should be
 available for the question session.
 
-The ten minute video presentation should include a demo, as well as a discussion of
+The ten minute video presentation should include a demo (functionality, similar to what was done in the MVP video), as well as a discussion of
 technical matters.
 
 **Technical matters to cover:**
