@@ -65,7 +65,7 @@ Response rate as of 10:00am 06/01/2020:
 | CMPSC 148 	| 39	| 7 |	17.95% |
 {:.table .table-sm .table-striped .table-bordered}
  
-So **PLEASE** fill in your evaluations!
+So **please, please, please** fill in your evaluations!
 
 Thank you all for taking the time (especially after so many peer eval questionnaires! :))  
 
