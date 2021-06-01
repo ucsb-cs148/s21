@@ -1,5 +1,5 @@
 ---
-desc: "Work towards code Freeze, Ethics Examples (recording)"
+desc: "Work towards code Freeze, Ethics of SW Development"
 lecture_date: 2021-06-01
 num: lect18
 ready: true
@@ -7,6 +7,9 @@ ready: true
 
 # Announcements
 * Full focus on finalizing your product! 
+
+# Ethics
+* Slides on the [Ethics of Software/Technology Development](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_Ethics21.pdf) 
 
 # Remaining Schedule Reminder: 
 
