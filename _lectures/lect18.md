@@ -14,7 +14,13 @@ ready: false
 * All documentation and the presentation video will be due at the end of **Tuesday, June 8th**. 
 * Project presentations will take place, as long announced and planned, during the final exam slot, **June 10th, 4-7pm**.
 
-Here, again, is the now agreed-upon point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 35% of the course grade:
+Here, again, is the class grading scheme including the agreed-upon point percentage breakdown for grading the “Final Product” 40% of the course grade:
+
+* 25% Homeworks
+* 35% Lab Points (including lab09 this week)
+* 40% your final project 
+
+Final Project Grading Dimensions: 
 
 * 15% Presentation
 * 5% Idea, and Idea Refinement 
@@ -31,7 +37,7 @@ Here, again, is the now agreed-upon point percentage breakdown for grading that 
 
 # ESCIs (Course Evaluations)
 
-You are likely getting many reminders from the automated system about course evaluations (ESCIs).  I would like to also remind you to please take a moment to enter your feedback about the course.  It is very important for the university to evaluate the quality of instructor's teaching (Question A) and the overall quality of the course (Question B).
+You are likely getting many reminders from the automated system about course evaluations (ESCIs). I would like to also remind you to please take a moment before the deadline on **Friday June 4th** to enter your feedback about the course.  It is very important for the university to evaluate the quality of instructor's teaching (Question A) and the overall quality of the course (Question B).
 
 A project-oriented course such as CS148 emphasizes learning by doing and the experience of working in teams over lectures and traditional exams and homeworks. If you see value in that approach, please do consider mentioning it as there are always debates on the future structure of the curriculum.  
 

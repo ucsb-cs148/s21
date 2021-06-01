@@ -15,7 +15,7 @@ ready: true
 * All documentation and the presentation video will be due at the end of **Tuesday, June 8th**. 
 * Project presentations will take place, as long announced and planned, during the final exam slot, **June 10th, 4-7pm**.
 
-Here, again, is the now agreed-upon point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 35% of the course grade:
+Here, again, is the now agreed-upon point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade:
 
 * 15% Presentation
 * 5% Idea, and Idea Refinement 

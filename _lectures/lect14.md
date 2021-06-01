@@ -14,7 +14,7 @@ ready: true
 * A fourth important document is the Github **README.md**, which should explain the code folder hierarchy and guide through the implementation effort 
 * Project presentations (Final exam slot, June 10th, 4-7pm)
 
-Here is the updated point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 35% of the course grade.
+Here is the updated point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade.
 
 * 15% Presentation
 * 5% Idea, and Idea Refinement 
