@@ -55,7 +55,7 @@ By **Tue, 06/08 23:59:59**: write brief commentary on team member code contribut
 * Today: Review the `/graphs/contributors` report for your project repo.    
   - You can find it by clicking "insights" then "contributors".
   
-# Is the `Contributors` graph accurate?
+## Is the `Contributors` graph accurate?
 
 Note that there can be big disparities between the contributors graph and ground truth.
 
