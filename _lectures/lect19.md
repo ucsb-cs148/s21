@@ -73,7 +73,7 @@ I'm really proud of what we've accomplished this quarter.  I hope you are too.
     * Making sure to listen to your team mates and give everyone a chance to feel like they are a part of the team, because the internal team work and how everyone contributes is crucial to the   
       team's effectiveness and success. 
     * The `git bisect` tool [can help you figure out](https://git-scm.com/docs/git-bisect) with what commit you introduced a crucial change in your repository. 
-
+ 
 * Work towards Code Freeze and Release.
 
 
