@@ -63,10 +63,10 @@ I'm really proud of what we've accomplished this quarter.  I hope you are too.
 * [Project presentations](https://ucsb-cs148.github.io/s21/exam/project_presentations/) will take place, as long announced and planned, during the final exam slot, **June 10th, 4-7pm**.www
 
 
-# Today: Finish Ongoing Labs and Prepare Peer Review 
+# Today: Final Lab, Final Push 
 
 * Standup 
-* Work towards Code Freeze and Final Release.
+* Work towards Code Freeze and Release.
 
 
 
