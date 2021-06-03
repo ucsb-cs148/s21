@@ -1,7 +1,7 @@
 ---
 layout: exam_info
 num: project
-ready: false
+ready: true
 desc: "Final Presentations"
 exam_date: 2021-06-10 16:00
 ---
@@ -45,7 +45,7 @@ technical matters.
 
 
 **Additional Notes:**
-* Presentations will be in a Zoom session to which the entire class is invited.
+* Video presentation and live Q&A for all projects will be in a Zoom session to which the entire class is invited.
 * While the entire class is invited to watch the entire session, you are only
   responsible for attending the portion when your team is presenting.
 * Presentations will be recorded.  The recording will only be viewed
@@ -57,26 +57,47 @@ implementation, and the code in its repo.
 
 Various factors will include:
 
-* Prepared Presentation: Clarity and content of presentation
-* Question and Answer session: Clarity and content of answers
-* App Functionality:
-  - Suitability for purpose: How well does the app address the user's needs?
-  - Challenge: Did the group take on a challenging problem or a very simple one?  
-* User Interface:
-  - Is the user interface easy to use, or challenging to figure out?
-  - Is the user interface consistent? (e.g. user interface elements are nicely aligned rather than weirdly and haphazardly placed on the screen.)
-  - Is the user interface pleasing to the eye?
-* Testing Strategies (this wasn't a required focus this quarter):
-  - Is there a documented test strategy linked to from the README.md file?
-  - Does the test strategy include unit, integration and end-to-end testing?
-  - How extensive is the test coverage?
-* Review of Code
-  - Does the code have a clear structure?
-  - Is the code DRY?
-  - Are names (variables,functions,components,methods,classes) clear and
-    appropriate?
-* Software Process
-  - How often do issues have clear acceptance criteria and user stories?
-  - How often are PRs linked to issues and vice-versa?
-  - Are the explanation in PRs clear?
-  - Are the commit messages clear?
+* Presentation 
+  * Prepared Presentation: Clarity and content of presentation
+  * Question and Answer session: Clarity and content of answers
+* Idea, and Idea Refinement
+  * Novelty and uniqueness
+  * Potential for impact
+  * Process of agile idea refinement (pivoting) 
+* Functionality, Quality (Reliability & Polish)  
+  * Suitability for purpose: How well does the app address the user's needs?
+  * How powerful is the provided toolset (how much I can do toward the problem solution)?
+  * How elegant is the provided toolset (sometimes, simplicity is a plus)?  
+  * User Interface:
+    * Is the user interface easy to use, or challenging to figure out?
+    * Is the user interface consistent? (e.g. user interface elements are nicely aligned rather than weirdly and haphazardly placed on the screen.)
+    * Is the user interface pleasing to the eye?
+* Technical Difficulty Implemented 
+  * Did the group take on a challenging problem or a very simple one (relative to team expertise/background)
+  * Were there technical roadblocks that were tackled instead of avoided?
+* Implementation 
+  * Review of Code
+    * Github organization
+    * Github commits, pull requests
+    * Does the code have a clear structure?
+    * Is the code DRY (Don't Repeat Yourself) rather than WET (Write Everything Twice)?
+    * Are names (variables,functions,components,methods,classes) clear and appropriate?
+  * Testing Strategies (this wasn't a required focus this quarter):
+    * Is there a documented test strategy linked to from the README.md file?
+    * Does the test strategy include unit, integration and end-to-end testing?
+    * How extensive is the test coverage?
+* Design Process
+  * Planned, Iterated and Implemented Software Architecture 
+  * Documented team leadership, meetings, and interactions (Scrum) 
+  * Coding Process
+    * Kanban Board history
+    * How often do issues have clear acceptance criteria and user stories?
+    * How often are PRs linked to issues and vice-versa?
+    * Are the explanation in PRs clear?
+    * Are the commit messages clear?
+  * UI Design, Implementation, and Testing
+  * Quality of Design Document itself
+* Manual
+  * Effectiveness (does it get the main points across, is it well structured)
+  * Clarity of how to use the product
+  * Attractiveness of the document itself 
