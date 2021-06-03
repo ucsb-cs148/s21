@@ -66,6 +66,14 @@ I'm really proud of what we've accomplished this quarter.  I hope you are too.
 # Today: Final Lab, Final Push 
 
 * Standup 
+* Now Lab09 Credit :) :  One "I wish I had known it when I started" lesson learned posted in #lessons_learned Slack channel. Examples: 
+    * During a rebase, *just rebase*.  Don't make changes (i.e. fix bugs, add features) during a rebase.  Only focus on 
+      fixing merge conflicts.    Make your changes to fix bugs or add features before the rebase, or after the rebase,
+      but *not during*.
+    * Making sure to listen to your team mates and give everyone a chance to feel like they are a part of the team, because the internal team work and how everyone contributes is crucial to the   
+      team's effectiveness and success. 
+    * The `git bisect` tool [can help you figure out](https://git-scm.com/docs/git-bisect) with what commit you introduced a crucial change in your repository. 
+
 * Work towards Code Freeze and Release.
 
 
