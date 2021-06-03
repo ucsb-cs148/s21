@@ -35,8 +35,9 @@ technical matters.
 * Authorization and Authentication (if applicable)
 * Database technologies used (if applicable)
 * External APIs or libraries used (if applicable)
-* Testing strategies (unit test, integration test, end-to-end tests)
 * Setup needed for app (configuration to get up a running instance.)
+* Optional: Testing strategies (unit test, integration test, end-to-end tests). Since this wasn't a major focus point in this course, solid testing strategies are simply a bonus this quarter.
+
 
 **Additional Notes:**
 * Presentations will be in a Zoom session to which the entire class is invited.
