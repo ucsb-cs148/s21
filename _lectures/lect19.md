@@ -2,7 +2,7 @@
 desc: "Final Stretch!"
 lecture_date: 2021-06-03
 num: lect19
-ready: false
+ready: true
 ---
 
 # Announcements
