@@ -10,14 +10,19 @@ exam_date: 2021-06-10 16:00
 
 **4pm to 7pm, Thursday June 10th** (original finals slot)
 
-Here is the point percentage breakdown for grading that the TAs and I plan to use for the “Final Product” 40% of the course grade.
+Here is the point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade.
 
 * 15% Presentation
-* 5% Idea, and Idea Refinement
-* 25% Functionality, Quality (Reliability & Polish)
-* 10% Technical Difficulty Implemented
-* 20% Implementation
-* 15% Design Process
+* 5% Idea, and Idea Refinement 
+* 25% Functionality, Quality (Reliability & Polish) 
+    * judged by review of demonstration, user manual, peer review, teaching team testing 
+* 10% Technical Difficulty Implemented 
+    * judged by review of code/scope taking into account team background/experience etc.
+* 20% Implementation 
+    * judged by review of Github code, PRs, etc. 
+    * use the README.md to make clear the repository structure and guide through implementation effort! 
+* 15% Design Process 
+    * judged by Design Document, Kanban Board, Meeting Logs, Github TEAM information, etc. Design Document should steer through the process.
 * 10% Manual 
 
 We will cross-reference against a ranking obtained from an overall quartiling judgment averaged among the evaluators.
