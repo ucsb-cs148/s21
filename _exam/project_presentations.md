@@ -48,7 +48,7 @@ technical matters.
 
 The final presentation will be part of a holistic review of the team's
 final product, including the presentation, as well as the team's production
-implementation, and the code in it's repo.
+implementation, and the code in its repo.
 
 Various factors will include:
 
