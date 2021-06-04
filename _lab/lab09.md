@@ -44,6 +44,8 @@ Look back on [Lab04 MVP Tag/Release instructions](https://ucsb-cs148.github.io/s
 
 By the same deadline, add a `#Deployment` section at the bottom of your README.md, which points to a live testable version of your project, either on Heroku (or other cloud service), or to platform binaries (e.g. hosted on Google Drive). 
 
+The deadline for your Manual and for the Design Document, s well as for your 10-minute final Demonstration Video is  the coming **Tuesday, 06/08, 23:59:59**.
+
 # Team Roles and Github Contributions
 
 We ask every team to comment on the code contributions that every team member made. You already documented leadership roles within the team management (in team/LEADERSHIP.md), and now we ask you to document the roles the team members played in the code development effort. In your github team folder, please create a `contributions` subfolder. 
